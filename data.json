@@ -1,0 +1,7043 @@
+{
+  "referees": [
+    {
+      "number": "#1",
+      "name": "和田 敏文",
+      "affiliation": "福岡県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#2",
+      "name": "遠藤 大輔",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#3",
+      "name": "小野 裕樹",
+      "affiliation": "青森県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#4",
+      "name": "漆間 大吾",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#5",
+      "name": "箱崎 敬知",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 2,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#6",
+      "name": "大野 太裕",
+      "affiliation": "茨城県",
+      "totals": {
+        "B.PREMIER": 5,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#7",
+      "name": "細見 竜太",
+      "affiliation": "大阪府",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#8",
+      "name": "山口 憲昭",
+      "affiliation": "福岡県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#10",
+      "name": "浅野 慶太郎",
+      "affiliation": "静岡県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#11",
+      "name": "松永 航平",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#12",
+      "name": "伊藤 睦哲",
+      "affiliation": "岩手県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 5,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#13",
+      "name": "石榑 芳弘",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 5,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#14",
+      "name": "久米 克弥",
+      "affiliation": "秋田県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#15",
+      "name": "小島 慶子",
+      "affiliation": "香川県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#16",
+      "name": "増渕 泰久",
+      "affiliation": "栃木県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#17",
+      "name": "石田 祐二",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#18",
+      "name": "山本 雄大",
+      "affiliation": "三重県",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#19",
+      "name": "北島 寛臣",
+      "affiliation": "埼玉県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#20",
+      "name": "佐藤 浩太",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#21",
+      "name": "大倉 哲也",
+      "affiliation": "大阪府",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#22",
+      "name": "林 大貴",
+      "affiliation": "三重県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#23",
+      "name": "柏原 琢磨",
+      "affiliation": "徳島県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#24",
+      "name": "名越 龍男",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#25",
+      "name": "阿部 聖",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#26",
+      "name": "有澤 重行",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#27",
+      "name": "隈元 ゆみこ",
+      "affiliation": "鹿児島県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#28",
+      "name": "松本 究",
+      "affiliation": "佐賀県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#29",
+      "name": "高城 邦弘",
+      "affiliation": "宮城県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#30",
+      "name": "伊藤 亮介",
+      "affiliation": "京都府",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#31",
+      "name": "野田 宏樹",
+      "affiliation": "熊本県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#32",
+      "name": "北沢 岳夫",
+      "affiliation": "石川県",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#33",
+      "name": "佐久間 飛人",
+      "affiliation": "沖縄県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#35",
+      "name": "赤星 隆幸",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 5,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#36",
+      "name": "平原 勇次",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#37",
+      "name": "茂泉 圭治",
+      "affiliation": "神奈川県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#38",
+      "name": "飯尾 勝紀",
+      "affiliation": "大阪府",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#40",
+      "name": "細田 知宏",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#41",
+      "name": "太田 麻須美",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#42",
+      "name": "了舟 文弥",
+      "affiliation": "石川県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 1,
+        "B.NEXT": 2,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#43",
+      "name": "大河原 則人",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#44",
+      "name": "中江 洋美",
+      "affiliation": "石川県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#45",
+      "name": "冨島 健司",
+      "affiliation": "京都府",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#46",
+      "name": "守谷 圭介",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#47",
+      "name": "堀内 純",
+      "affiliation": "愛媛県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#48",
+      "name": "野田 明男",
+      "affiliation": "福岡県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#49",
+      "name": "上西 星太",
+      "affiliation": "滋賀県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#50",
+      "name": "橋本 恵一",
+      "affiliation": "島根県",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#51",
+      "name": "村上 恵美",
+      "affiliation": "神奈川県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#52",
+      "name": "岸本 祥也",
+      "affiliation": "岡山県",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 7
+      }
+    },
+    {
+      "number": "#53",
+      "name": "北沢 あや子",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#54",
+      "name": "前田 隼大",
+      "affiliation": "鹿児島県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#55",
+      "name": "山田 俊",
+      "affiliation": "宮城県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#56",
+      "name": "内田 祥平",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#59",
+      "name": "猪股 祐介",
+      "affiliation": "千葉県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 5,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#60",
+      "name": "茅野 修司",
+      "affiliation": "大阪府",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 2,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#61",
+      "name": "山内 正隆",
+      "affiliation": "長野県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#62",
+      "name": "原田 拓朗",
+      "affiliation": "鹿児島県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#63",
+      "name": "御手洗 亮",
+      "affiliation": "大分県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#64",
+      "name": "伊藤 彰二",
+      "affiliation": "静岡県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 5,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#67",
+      "name": "皆川 義紀",
+      "affiliation": "広島県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#68",
+      "name": "一色 渉",
+      "affiliation": "茨城県",
+      "totals": {
+        "B.PREMIER": 5,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#71",
+      "name": "甲斐 清",
+      "affiliation": "鳥取県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#72",
+      "name": "坂井 元直",
+      "affiliation": "三重県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#73",
+      "name": "加納 康平",
+      "affiliation": "神奈川県",
+      "totals": {
+        "B.PREMIER": 5,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#74",
+      "name": "加川 真",
+      "affiliation": "宮城県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#75",
+      "name": "野々村 日希",
+      "affiliation": "岐阜県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#76",
+      "name": "嶋崎 貴",
+      "affiliation": "大阪府",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#77",
+      "name": "加藤 誉樹",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#78",
+      "name": "薦田 侑二郎",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#79",
+      "name": "蒲 健一",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#80",
+      "name": "汐野 壱歩",
+      "affiliation": "兵庫県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#81",
+      "name": "早崎 康祐",
+      "affiliation": "兵庫県",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#82",
+      "name": "吉田 剛",
+      "affiliation": "福島県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#83",
+      "name": "東條 輝正",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#84",
+      "name": "尾形 美樹",
+      "affiliation": "長野県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#85",
+      "name": "熊谷 久美子",
+      "affiliation": "青森県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#86",
+      "name": "小田中 涼子",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#87",
+      "name": "長谷川 裕",
+      "affiliation": "神奈川県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#88",
+      "name": "田中 充",
+      "affiliation": "北海道",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#89",
+      "name": "丸山 大",
+      "affiliation": "新潟県",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#90",
+      "name": "加藤 暁生",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#91",
+      "name": "塩谷 禎",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#92",
+      "name": "秋山 厚志",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#93",
+      "name": "岩月 遼司",
+      "affiliation": "長野県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#94",
+      "name": "高橋 伸禎",
+      "affiliation": "北海道",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#95",
+      "name": "中川 行臣",
+      "affiliation": "静岡県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#96",
+      "name": "和嶋 陽一",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#97",
+      "name": "富樫 彰子",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#98",
+      "name": "小畑 治",
+      "affiliation": "奈良県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#99",
+      "name": "冨士 将史",
+      "affiliation": "北海道",
+      "totals": {
+        "B.PREMIER": 5,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#100",
+      "name": "大野 哲広",
+      "affiliation": "奈良県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#101",
+      "name": "梶 崇司",
+      "affiliation": "栃木県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#102",
+      "name": "竹田 雄介",
+      "affiliation": "富山県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#103",
+      "name": "井出 啓太",
+      "affiliation": "静岡県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#104",
+      "name": "岩城 和利",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#106",
+      "name": "砂川 卓嗣",
+      "affiliation": "沖縄県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 1
+      }
+    },
+    {
+      "number": "#107",
+      "name": "眞榮喜 工",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#108",
+      "name": "幡丸 登志久",
+      "affiliation": "和歌山県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 5,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#109",
+      "name": "高野 晃平",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#110",
+      "name": "豊田 康平",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#111",
+      "name": "管 祐介",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#112",
+      "name": "岩井 遥河",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#113",
+      "name": "柳田 雅人",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 6,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#114",
+      "name": "大山 賢史",
+      "affiliation": "栃木県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#115",
+      "name": "島袋 竹志",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#116",
+      "name": "浅野 祐樹",
+      "affiliation": "大阪府",
+      "totals": {
+        "B.PREMIER": 4,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 7
+      }
+    },
+    {
+      "number": "#117",
+      "name": "若林 謙作",
+      "affiliation": "栃木県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 2,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#118",
+      "name": "市川 雄介",
+      "affiliation": "プロ",
+      "totals": {
+        "B.PREMIER": 7,
+        "B.ONE": 0,
+        "B.NEXT": 0,
+        "合計": 7
+      }
+    },
+    {
+      "number": "#119",
+      "name": "池田 隼人",
+      "affiliation": "愛媛県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#121",
+      "name": "上山 正智",
+      "affiliation": "鹿児島県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#122",
+      "name": "川島 司",
+      "affiliation": "宮崎県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#124",
+      "name": "桑原 一貴",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#125",
+      "name": "西 和馬",
+      "affiliation": "徳島県",
+      "totals": {
+        "B.PREMIER": 3,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#126",
+      "name": "辻 健太郎",
+      "affiliation": "和歌山県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 1,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#127",
+      "name": "浮池 亮太",
+      "affiliation": "福井県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#128",
+      "name": "山田 隆介",
+      "affiliation": "福井県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 6,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#129",
+      "name": "武田 亜沙美",
+      "affiliation": "山形県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#132",
+      "name": "石嶺 良方",
+      "affiliation": "沖縄県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#133",
+      "name": "大井 陽平",
+      "affiliation": "埼玉県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 6
+      }
+    },
+    {
+      "number": "#135",
+      "name": "工藤 雅子",
+      "affiliation": "茨城県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#136",
+      "name": "菊池 瑞昭",
+      "affiliation": "茨城県",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#137",
+      "name": "小澤 朋克",
+      "affiliation": "群馬県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#138",
+      "name": "青木 紀江",
+      "affiliation": "静岡県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#141",
+      "name": "千葉 美幸",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#142",
+      "name": "唐川 幸",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#144",
+      "name": "中根 俊彦",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#145",
+      "name": "赤沼 裕紀",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 2,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#146",
+      "name": "早川 貴章",
+      "affiliation": "新潟県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#147",
+      "name": "佐久間 奈々",
+      "affiliation": "岐阜県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#148",
+      "name": "佐藤 慎士",
+      "affiliation": "滋賀県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#149",
+      "name": "後藤 貴哉",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 2,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#150",
+      "name": "薄井 智正",
+      "affiliation": "長野県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 3,
+        "B.NEXT": 2,
+        "合計": 5
+      }
+    },
+    {
+      "number": "#151",
+      "name": "堤 健太郎",
+      "affiliation": "滋賀県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 1,
+        "B.NEXT": 2,
+        "合計": 3
+      }
+    },
+    {
+      "number": "#152",
+      "name": "松井 龍斗",
+      "affiliation": "新潟県",
+      "totals": {
+        "B.PREMIER": 1,
+        "B.ONE": 3,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#153",
+      "name": "神 魁杜",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 4,
+        "B.NEXT": 0,
+        "合計": 4
+      }
+    },
+    {
+      "number": "#156",
+      "name": "福沢 佳乃子",
+      "affiliation": "青森県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#158",
+      "name": "工藤 美香",
+      "affiliation": "秋田県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#160",
+      "name": "山田 佳奈",
+      "affiliation": "愛媛県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 2,
+        "B.NEXT": 0,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#163",
+      "name": "荒木 晋之",
+      "affiliation": "福岡県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#167",
+      "name": "福田 尚広",
+      "affiliation": "島根県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#169",
+      "name": "板谷 修平",
+      "affiliation": "神奈川県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#171",
+      "name": "中屋敷 大",
+      "affiliation": "大分県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#173",
+      "name": "山下 渉",
+      "affiliation": "徳島県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#177",
+      "name": "伊藤 拓未",
+      "affiliation": "愛知県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#179",
+      "name": "松原 伊吹",
+      "affiliation": "滋賀県",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    },
+    {
+      "number": "#180",
+      "name": "三浦 海音",
+      "affiliation": "東京都",
+      "totals": {
+        "B.PREMIER": 0,
+        "B.ONE": 0,
+        "B.NEXT": 2,
+        "合計": 2
+      }
+    }
+  ],
+  "games": [
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.22",
+      "home": "A東京",
+      "away": "琉球",
+      "card": "A東京 vs 琉球",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "漆間 大吾"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.22",
+      "home": "A東京",
+      "away": "琉球",
+      "card": "A東京 vs 琉球",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "市川 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.22",
+      "home": "A東京",
+      "away": "琉球",
+      "card": "A東京 vs 琉球",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "一色 渉"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.23",
+      "home": "A東京",
+      "away": "琉球",
+      "card": "A東京 vs 琉球",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "漆間 大吾"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.23",
+      "home": "A東京",
+      "away": "琉球",
+      "card": "A東京 vs 琉球",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "市川 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.23",
+      "home": "A東京",
+      "away": "琉球",
+      "card": "A東京 vs 琉球",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "一色 渉"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.23",
+      "home": "長崎",
+      "away": "島根",
+      "card": "長崎 vs 島根",
+      "venue": "ハピアリ",
+      "role": "CC",
+      "referee": "大河原 則人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.23",
+      "home": "長崎",
+      "away": "島根",
+      "card": "長崎 vs 島根",
+      "venue": "ハピアリ",
+      "role": "U1",
+      "referee": "山本 雄大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.23",
+      "home": "長崎",
+      "away": "島根",
+      "card": "長崎 vs 島根",
+      "venue": "ハピアリ",
+      "role": "U2",
+      "referee": "前田 隼大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.24",
+      "home": "群馬",
+      "away": "A千葉",
+      "card": "群馬 vs A千葉",
+      "venue": "オプアリ",
+      "role": "CC",
+      "referee": "内田 祥平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.24",
+      "home": "群馬",
+      "away": "A千葉",
+      "card": "群馬 vs A千葉",
+      "venue": "オプアリ",
+      "role": "U1",
+      "referee": "柳田 雅人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.24",
+      "home": "群馬",
+      "away": "A千葉",
+      "card": "群馬 vs A千葉",
+      "venue": "オプアリ",
+      "role": "U2",
+      "referee": "大井 陽平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "京都",
+      "away": "滋賀",
+      "card": "京都 vs 滋賀",
+      "venue": "日新電機",
+      "role": "CC",
+      "referee": "岩井 遥河"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "京都",
+      "away": "滋賀",
+      "card": "京都 vs 滋賀",
+      "venue": "日新電機",
+      "role": "U1",
+      "referee": "早崎 康祐"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "京都",
+      "away": "滋賀",
+      "card": "京都 vs 滋賀",
+      "venue": "日新電機",
+      "role": "U2",
+      "referee": "熊谷 久美子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "佐賀",
+      "away": "広島",
+      "card": "佐賀 vs 広島",
+      "venue": "Sアリ",
+      "role": "CC",
+      "referee": "秋山 厚志"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "佐賀",
+      "away": "広島",
+      "card": "佐賀 vs 広島",
+      "venue": "Sアリ",
+      "role": "U1",
+      "referee": "眞榮喜 工"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "佐賀",
+      "away": "広島",
+      "card": "佐賀 vs 広島",
+      "venue": "Sアリ",
+      "role": "U2",
+      "referee": "原田 拓朗"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "茨城",
+      "away": "三遠",
+      "card": "茨城 vs 三遠",
+      "venue": "ADみと",
+      "role": "CC",
+      "referee": "阿部 聖"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "茨城",
+      "away": "三遠",
+      "card": "茨城 vs 三遠",
+      "venue": "ADみと",
+      "role": "U1",
+      "referee": "中川 行臣"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "茨城",
+      "away": "三遠",
+      "card": "茨城 vs 三遠",
+      "venue": "ADみと",
+      "role": "U2",
+      "referee": "池田 隼人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "東京SR",
+      "away": "千葉J",
+      "card": "東京SR vs 千葉J",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "平原 勇次"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "東京SR",
+      "away": "千葉J",
+      "card": "東京SR vs 千葉J",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "丸山 大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "東京SR",
+      "away": "千葉J",
+      "card": "東京SR vs 千葉J",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "大倉 哲也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "長崎",
+      "away": "島根",
+      "card": "長崎 vs 島根",
+      "venue": "ハピアリ",
+      "role": "CC",
+      "referee": "大河原 則人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "長崎",
+      "away": "島根",
+      "card": "長崎 vs 島根",
+      "venue": "ハピアリ",
+      "role": "U1",
+      "referee": "市川 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.25",
+      "home": "長崎",
+      "away": "島根",
+      "card": "長崎 vs 島根",
+      "venue": "ハピアリ",
+      "role": "U2",
+      "referee": "桑原 一貴"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "信州",
+      "away": "富山",
+      "card": "信州 vs 富山",
+      "venue": "ホワイト",
+      "role": "CC",
+      "referee": "北沢 あや子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "信州",
+      "away": "富山",
+      "card": "信州 vs 富山",
+      "venue": "ホワイト",
+      "role": "U1",
+      "referee": "久米 克弥"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "信州",
+      "away": "富山",
+      "card": "信州 vs 富山",
+      "venue": "ホワイト",
+      "role": "U2",
+      "referee": "西 和馬"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "北海道",
+      "away": "三河",
+      "card": "北海道 vs 三河",
+      "venue": "北海きた",
+      "role": "CC",
+      "referee": "大野 太裕"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "北海道",
+      "away": "三河",
+      "card": "北海道 vs 三河",
+      "venue": "北海きた",
+      "role": "U1",
+      "referee": "増渕 泰久"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "北海道",
+      "away": "三河",
+      "card": "北海道 vs 三河",
+      "venue": "北海きた",
+      "role": "U2",
+      "referee": "細田 知宏"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "仙台",
+      "away": "秋田",
+      "card": "仙台 vs 秋田",
+      "venue": "ゼビオ",
+      "role": "CC",
+      "referee": "加納 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "仙台",
+      "away": "秋田",
+      "card": "仙台 vs 秋田",
+      "venue": "ゼビオ",
+      "role": "U1",
+      "referee": "松本 究"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "仙台",
+      "away": "秋田",
+      "card": "仙台 vs 秋田",
+      "venue": "ゼビオ",
+      "role": "U2",
+      "referee": "岸本 祥也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "神戸",
+      "away": "大阪",
+      "card": "神戸 vs 大阪",
+      "venue": "Gアリ",
+      "role": "CC",
+      "referee": "伊藤 亮介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "神戸",
+      "away": "大阪",
+      "card": "神戸 vs 大阪",
+      "venue": "Gアリ",
+      "role": "U1",
+      "referee": "豊田 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "神戸",
+      "away": "大阪",
+      "card": "神戸 vs 大阪",
+      "venue": "Gアリ",
+      "role": "U2",
+      "referee": "守谷 圭介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "宇都宮",
+      "away": "横浜BC",
+      "card": "宇都宮 vs 横浜BC",
+      "venue": "日環栃木",
+      "role": "CC",
+      "referee": "高野 晃平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "宇都宮",
+      "away": "横浜BC",
+      "card": "宇都宮 vs 横浜BC",
+      "venue": "日環栃木",
+      "role": "U1",
+      "referee": "冨士 将史"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "宇都宮",
+      "away": "横浜BC",
+      "card": "宇都宮 vs 横浜BC",
+      "venue": "日環栃木",
+      "role": "U2",
+      "referee": "岩月 遼司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "群馬",
+      "away": "A千葉",
+      "card": "群馬 vs A千葉",
+      "venue": "オプアリ",
+      "role": "CC",
+      "referee": "内田 祥平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "群馬",
+      "away": "A千葉",
+      "card": "群馬 vs A千葉",
+      "venue": "オプアリ",
+      "role": "U1",
+      "referee": "柳田 雅人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "群馬",
+      "away": "A千葉",
+      "card": "群馬 vs A千葉",
+      "venue": "オプアリ",
+      "role": "U2",
+      "referee": "大井 陽平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "東京SR",
+      "away": "千葉J",
+      "card": "東京SR vs 千葉J",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "平原 勇次"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "東京SR",
+      "away": "千葉J",
+      "card": "東京SR vs 千葉J",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "丸山 大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "東京SR",
+      "away": "千葉J",
+      "card": "東京SR vs 千葉J",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "大倉 哲也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "川崎",
+      "away": "名古屋D",
+      "card": "川崎 vs 名古屋D",
+      "venue": "とどろき",
+      "role": "CC",
+      "referee": "北沢 岳夫"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "川崎",
+      "away": "名古屋D",
+      "card": "川崎 vs 名古屋D",
+      "venue": "とどろき",
+      "role": "U1",
+      "referee": "堀内 純"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.26",
+      "home": "川崎",
+      "away": "名古屋D",
+      "card": "川崎 vs 名古屋D",
+      "venue": "とどろき",
+      "role": "U2",
+      "referee": "石榑 芳弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "茨城",
+      "away": "三遠",
+      "card": "茨城 vs 三遠",
+      "venue": "ADみと",
+      "role": "CC",
+      "referee": "阿部 聖"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "茨城",
+      "away": "三遠",
+      "card": "茨城 vs 三遠",
+      "venue": "ADみと",
+      "role": "U1",
+      "referee": "東條 輝正"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "茨城",
+      "away": "三遠",
+      "card": "茨城 vs 三遠",
+      "venue": "ADみと",
+      "role": "U2",
+      "referee": "管 祐介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "北海道",
+      "away": "三河",
+      "card": "北海道 vs 三河",
+      "venue": "北海きた",
+      "role": "CC",
+      "referee": "大野 太裕"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "北海道",
+      "away": "三河",
+      "card": "北海道 vs 三河",
+      "venue": "北海きた",
+      "role": "U1",
+      "referee": "増渕 泰久"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "北海道",
+      "away": "三河",
+      "card": "北海道 vs 三河",
+      "venue": "北海きた",
+      "role": "U2",
+      "referee": "細田 知宏"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "仙台",
+      "away": "秋田",
+      "card": "仙台 vs 秋田",
+      "venue": "ゼビオ",
+      "role": "CC",
+      "referee": "加納 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "仙台",
+      "away": "秋田",
+      "card": "仙台 vs 秋田",
+      "venue": "ゼビオ",
+      "role": "U1",
+      "referee": "松本 究"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "仙台",
+      "away": "秋田",
+      "card": "仙台 vs 秋田",
+      "venue": "ゼビオ",
+      "role": "U2",
+      "referee": "岸本 祥也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "神戸",
+      "away": "大阪",
+      "card": "神戸 vs 大阪",
+      "venue": "Gアリ",
+      "role": "CC",
+      "referee": "伊藤 亮介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "神戸",
+      "away": "大阪",
+      "card": "神戸 vs 大阪",
+      "venue": "Gアリ",
+      "role": "U1",
+      "referee": "豊田 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "神戸",
+      "away": "大阪",
+      "card": "神戸 vs 大阪",
+      "venue": "Gアリ",
+      "role": "U2",
+      "referee": "守谷 圭介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "信州",
+      "away": "富山",
+      "card": "信州 vs 富山",
+      "venue": "ホワイト",
+      "role": "CC",
+      "referee": "北沢 あや子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "信州",
+      "away": "富山",
+      "card": "信州 vs 富山",
+      "venue": "ホワイト",
+      "role": "U1",
+      "referee": "久米 克弥"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "信州",
+      "away": "富山",
+      "card": "信州 vs 富山",
+      "venue": "ホワイト",
+      "role": "U2",
+      "referee": "西 和馬"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "佐賀",
+      "away": "広島",
+      "card": "佐賀 vs 広島",
+      "venue": "Sアリ",
+      "role": "CC",
+      "referee": "秋山 厚志"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "佐賀",
+      "away": "広島",
+      "card": "佐賀 vs 広島",
+      "venue": "Sアリ",
+      "role": "U1",
+      "referee": "眞榮喜 工"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "佐賀",
+      "away": "広島",
+      "card": "佐賀 vs 広島",
+      "venue": "Sアリ",
+      "role": "U2",
+      "referee": "原田 拓朗"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "京都",
+      "away": "滋賀",
+      "card": "京都 vs 滋賀",
+      "venue": "日新電機",
+      "role": "CC",
+      "referee": "岩井 遥河"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "京都",
+      "away": "滋賀",
+      "card": "京都 vs 滋賀",
+      "venue": "日新電機",
+      "role": "U1",
+      "referee": "橋本 恵一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "京都",
+      "away": "滋賀",
+      "card": "京都 vs 滋賀",
+      "venue": "日新電機",
+      "role": "U2",
+      "referee": "早崎 康祐"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "宇都宮",
+      "away": "横浜BC",
+      "card": "宇都宮 vs 横浜BC",
+      "venue": "日環栃木",
+      "role": "CC",
+      "referee": "高野 晃平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "宇都宮",
+      "away": "横浜BC",
+      "card": "宇都宮 vs 横浜BC",
+      "venue": "日環栃木",
+      "role": "U1",
+      "referee": "冨士 将史"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "宇都宮",
+      "away": "横浜BC",
+      "card": "宇都宮 vs 横浜BC",
+      "venue": "日環栃木",
+      "role": "U2",
+      "referee": "岩月 遼司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "川崎",
+      "away": "名古屋D",
+      "card": "川崎 vs 名古屋D",
+      "venue": "とどろき",
+      "role": "CC",
+      "referee": "北沢 岳夫"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "川崎",
+      "away": "名古屋D",
+      "card": "川崎 vs 名古屋D",
+      "venue": "とどろき",
+      "role": "U1",
+      "referee": "堀内 純"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.09.27",
+      "home": "川崎",
+      "away": "名古屋D",
+      "card": "川崎 vs 名古屋D",
+      "venue": "とどろき",
+      "role": "U2",
+      "referee": "石榑 芳弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.02",
+      "home": "千葉J",
+      "away": "A東京",
+      "card": "千葉J vs A東京",
+      "venue": "ららアリ",
+      "role": "CC",
+      "referee": "阿部 聖"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.02",
+      "home": "千葉J",
+      "away": "A東京",
+      "card": "千葉J vs A東京",
+      "venue": "ららアリ",
+      "role": "U1",
+      "referee": "豊田 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.02",
+      "home": "千葉J",
+      "away": "A東京",
+      "card": "千葉J vs A東京",
+      "venue": "ららアリ",
+      "role": "U2",
+      "referee": "高野 晃平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.02",
+      "home": "広島",
+      "away": "神戸",
+      "card": "広島 vs 神戸",
+      "venue": "グリアリ",
+      "role": "CC",
+      "referee": "漆間 大吾"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.02",
+      "home": "広島",
+      "away": "神戸",
+      "card": "広島 vs 神戸",
+      "venue": "グリアリ",
+      "role": "U1",
+      "referee": "北沢 あや子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.02",
+      "home": "広島",
+      "away": "神戸",
+      "card": "広島 vs 神戸",
+      "venue": "グリアリ",
+      "role": "U2",
+      "referee": "皆川 義紀"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "島根",
+      "away": "名古屋D",
+      "card": "島根 vs 名古屋D",
+      "venue": "BNアリ",
+      "role": "CC",
+      "referee": "加藤 誉樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "島根",
+      "away": "名古屋D",
+      "card": "島根 vs 名古屋D",
+      "venue": "BNアリ",
+      "role": "U1",
+      "referee": "名越 龍男"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "島根",
+      "away": "名古屋D",
+      "card": "島根 vs 名古屋D",
+      "venue": "BNアリ",
+      "role": "U2",
+      "referee": "富樫 彰子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "A千葉",
+      "away": "川崎",
+      "card": "A千葉 vs 川崎",
+      "venue": "ちばアリ",
+      "role": "CC",
+      "referee": "大野 太裕"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "A千葉",
+      "away": "川崎",
+      "card": "A千葉 vs 川崎",
+      "venue": "ちばアリ",
+      "role": "U1",
+      "referee": "加川 真"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "A千葉",
+      "away": "川崎",
+      "card": "A千葉 vs 川崎",
+      "venue": "ちばアリ",
+      "role": "U2",
+      "referee": "浅野 祐樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "北海道",
+      "away": "仙台",
+      "card": "北海道 vs 仙台",
+      "venue": "北海きた",
+      "role": "CC",
+      "referee": "岩井 遥河"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "北海道",
+      "away": "仙台",
+      "card": "北海道 vs 仙台",
+      "venue": "北海きた",
+      "role": "U1",
+      "referee": "石田 祐二"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "北海道",
+      "away": "仙台",
+      "card": "北海道 vs 仙台",
+      "venue": "北海きた",
+      "role": "U2",
+      "referee": "石榑 芳弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "東京SR",
+      "away": "秋田",
+      "card": "東京SR vs 秋田",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "一色 渉"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "東京SR",
+      "away": "秋田",
+      "card": "東京SR vs 秋田",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "高城 邦弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "東京SR",
+      "away": "秋田",
+      "card": "東京SR vs 秋田",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "山本 雄大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "富山",
+      "away": "宇都宮",
+      "card": "富山 vs 宇都宮",
+      "venue": "APアリ",
+      "role": "CC",
+      "referee": "秋山 厚志"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "富山",
+      "away": "宇都宮",
+      "card": "富山 vs 宇都宮",
+      "venue": "APアリ",
+      "role": "U1",
+      "referee": "眞榮喜 工"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "富山",
+      "away": "宇都宮",
+      "card": "富山 vs 宇都宮",
+      "venue": "APアリ",
+      "role": "U2",
+      "referee": "坂井 元直"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "滋賀",
+      "away": "琉球",
+      "card": "滋賀 vs 琉球",
+      "venue": "滋賀DH",
+      "role": "CC",
+      "referee": "内田 祥平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "滋賀",
+      "away": "琉球",
+      "card": "滋賀 vs 琉球",
+      "venue": "滋賀DH",
+      "role": "U1",
+      "referee": "井出 啓太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "滋賀",
+      "away": "琉球",
+      "card": "滋賀 vs 琉球",
+      "venue": "滋賀DH",
+      "role": "U2",
+      "referee": "岸本 祥也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "大阪",
+      "away": "三河",
+      "card": "大阪 vs 三河",
+      "venue": "おおきに",
+      "role": "CC",
+      "referee": "橋本 恵一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "大阪",
+      "away": "三河",
+      "card": "大阪 vs 三河",
+      "venue": "おおきに",
+      "role": "U1",
+      "referee": "冨島 健司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "大阪",
+      "away": "三河",
+      "card": "大阪 vs 三河",
+      "venue": "おおきに",
+      "role": "U2",
+      "referee": "東條 輝正"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "佐賀",
+      "away": "三遠",
+      "card": "佐賀 vs 三遠",
+      "venue": "Sアリ",
+      "role": "CC",
+      "referee": "有澤 重行"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "佐賀",
+      "away": "三遠",
+      "card": "佐賀 vs 三遠",
+      "venue": "Sアリ",
+      "role": "U1",
+      "referee": "蒲 健一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "佐賀",
+      "away": "三遠",
+      "card": "佐賀 vs 三遠",
+      "venue": "Sアリ",
+      "role": "U2",
+      "referee": "上西 星太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "京都",
+      "away": "長崎",
+      "card": "京都 vs 長崎",
+      "venue": "日新電機",
+      "role": "CC",
+      "referee": "北沢 岳夫"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "京都",
+      "away": "長崎",
+      "card": "京都 vs 長崎",
+      "venue": "日新電機",
+      "role": "U1",
+      "referee": "冨士 将史"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "京都",
+      "away": "長崎",
+      "card": "京都 vs 長崎",
+      "venue": "日新電機",
+      "role": "U2",
+      "referee": "梶 崇司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "群馬",
+      "away": "茨城",
+      "card": "群馬 vs 茨城",
+      "venue": "オプアリ",
+      "role": "CC",
+      "referee": "大河原 則人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "群馬",
+      "away": "茨城",
+      "card": "群馬 vs 茨城",
+      "venue": "オプアリ",
+      "role": "U1",
+      "referee": "市川 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "群馬",
+      "away": "茨城",
+      "card": "群馬 vs 茨城",
+      "venue": "オプアリ",
+      "role": "U2",
+      "referee": "田中 充"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "横浜BC",
+      "away": "信州",
+      "card": "横浜BC vs 信州",
+      "venue": "横浜BT",
+      "role": "CC",
+      "referee": "加納 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "横浜BC",
+      "away": "信州",
+      "card": "横浜BC vs 信州",
+      "venue": "横浜BT",
+      "role": "U1",
+      "referee": "柳田 雅人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.03",
+      "home": "横浜BC",
+      "away": "信州",
+      "card": "横浜BC vs 信州",
+      "venue": "横浜BT",
+      "role": "U2",
+      "referee": "大野 哲広"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "島根",
+      "away": "名古屋D",
+      "card": "島根 vs 名古屋D",
+      "venue": "BNアリ",
+      "role": "CC",
+      "referee": "加藤 誉樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "島根",
+      "away": "名古屋D",
+      "card": "島根 vs 名古屋D",
+      "venue": "BNアリ",
+      "role": "U1",
+      "referee": "名越 龍男"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "島根",
+      "away": "名古屋D",
+      "card": "島根 vs 名古屋D",
+      "venue": "BNアリ",
+      "role": "U2",
+      "referee": "富樫 彰子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "北海道",
+      "away": "仙台",
+      "card": "北海道 vs 仙台",
+      "venue": "北海きた",
+      "role": "CC",
+      "referee": "岩井 遥河"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "北海道",
+      "away": "仙台",
+      "card": "北海道 vs 仙台",
+      "venue": "北海きた",
+      "role": "U1",
+      "referee": "石田 祐二"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "北海道",
+      "away": "仙台",
+      "card": "北海道 vs 仙台",
+      "venue": "北海きた",
+      "role": "U2",
+      "referee": "石榑 芳弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "A千葉",
+      "away": "川崎",
+      "card": "A千葉 vs 川崎",
+      "venue": "ちばアリ",
+      "role": "CC",
+      "referee": "大野 太裕"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "A千葉",
+      "away": "川崎",
+      "card": "A千葉 vs 川崎",
+      "venue": "ちばアリ",
+      "role": "U1",
+      "referee": "加川 真"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "A千葉",
+      "away": "川崎",
+      "card": "A千葉 vs 川崎",
+      "venue": "ちばアリ",
+      "role": "U2",
+      "referee": "浅野 祐樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "千葉J",
+      "away": "A東京",
+      "card": "千葉J vs A東京",
+      "venue": "ららアリ",
+      "role": "CC",
+      "referee": "阿部 聖"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "千葉J",
+      "away": "A東京",
+      "card": "千葉J vs A東京",
+      "venue": "ららアリ",
+      "role": "U1",
+      "referee": "豊田 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "千葉J",
+      "away": "A東京",
+      "card": "千葉J vs A東京",
+      "venue": "ららアリ",
+      "role": "U2",
+      "referee": "高野 晃平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "東京SR",
+      "away": "秋田",
+      "card": "東京SR vs 秋田",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "一色 渉"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "東京SR",
+      "away": "秋田",
+      "card": "東京SR vs 秋田",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "高城 邦弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "東京SR",
+      "away": "秋田",
+      "card": "東京SR vs 秋田",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "山本 雄大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "富山",
+      "away": "宇都宮",
+      "card": "富山 vs 宇都宮",
+      "venue": "APアリ",
+      "role": "CC",
+      "referee": "秋山 厚志"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "富山",
+      "away": "宇都宮",
+      "card": "富山 vs 宇都宮",
+      "venue": "APアリ",
+      "role": "U1",
+      "referee": "眞榮喜 工"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "富山",
+      "away": "宇都宮",
+      "card": "富山 vs 宇都宮",
+      "venue": "APアリ",
+      "role": "U2",
+      "referee": "坂井 元直"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "滋賀",
+      "away": "琉球",
+      "card": "滋賀 vs 琉球",
+      "venue": "滋賀DH",
+      "role": "CC",
+      "referee": "内田 祥平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "滋賀",
+      "away": "琉球",
+      "card": "滋賀 vs 琉球",
+      "venue": "滋賀DH",
+      "role": "U1",
+      "referee": "井出 啓太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "滋賀",
+      "away": "琉球",
+      "card": "滋賀 vs 琉球",
+      "venue": "滋賀DH",
+      "role": "U2",
+      "referee": "岸本 祥也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "大阪",
+      "away": "三河",
+      "card": "大阪 vs 三河",
+      "venue": "おおきに",
+      "role": "CC",
+      "referee": "橋本 恵一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "大阪",
+      "away": "三河",
+      "card": "大阪 vs 三河",
+      "venue": "おおきに",
+      "role": "U1",
+      "referee": "冨島 健司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "大阪",
+      "away": "三河",
+      "card": "大阪 vs 三河",
+      "venue": "おおきに",
+      "role": "U2",
+      "referee": "東條 輝正"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "佐賀",
+      "away": "三遠",
+      "card": "佐賀 vs 三遠",
+      "venue": "Sアリ",
+      "role": "CC",
+      "referee": "有澤 重行"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "佐賀",
+      "away": "三遠",
+      "card": "佐賀 vs 三遠",
+      "venue": "Sアリ",
+      "role": "U1",
+      "referee": "蒲 健一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "佐賀",
+      "away": "三遠",
+      "card": "佐賀 vs 三遠",
+      "venue": "Sアリ",
+      "role": "U2",
+      "referee": "上西 星太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "京都",
+      "away": "長崎",
+      "card": "京都 vs 長崎",
+      "venue": "日新電機",
+      "role": "CC",
+      "referee": "北沢 岳夫"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "京都",
+      "away": "長崎",
+      "card": "京都 vs 長崎",
+      "venue": "日新電機",
+      "role": "U1",
+      "referee": "冨士 将史"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "京都",
+      "away": "長崎",
+      "card": "京都 vs 長崎",
+      "venue": "日新電機",
+      "role": "U2",
+      "referee": "梶 崇司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "広島",
+      "away": "神戸",
+      "card": "広島 vs 神戸",
+      "venue": "グリアリ",
+      "role": "CC",
+      "referee": "漆間 大吾"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "広島",
+      "away": "神戸",
+      "card": "広島 vs 神戸",
+      "venue": "グリアリ",
+      "role": "U1",
+      "referee": "西 和馬"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "広島",
+      "away": "神戸",
+      "card": "広島 vs 神戸",
+      "venue": "グリアリ",
+      "role": "U2",
+      "referee": "細見 竜太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "群馬",
+      "away": "茨城",
+      "card": "群馬 vs 茨城",
+      "venue": "オプアリ",
+      "role": "CC",
+      "referee": "大河原 則人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "群馬",
+      "away": "茨城",
+      "card": "群馬 vs 茨城",
+      "venue": "オプアリ",
+      "role": "U1",
+      "referee": "市川 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "群馬",
+      "away": "茨城",
+      "card": "群馬 vs 茨城",
+      "venue": "オプアリ",
+      "role": "U2",
+      "referee": "田中 充"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "横浜BC",
+      "away": "信州",
+      "card": "横浜BC vs 信州",
+      "venue": "横浜BT",
+      "role": "CC",
+      "referee": "加納 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "横浜BC",
+      "away": "信州",
+      "card": "横浜BC vs 信州",
+      "venue": "横浜BT",
+      "role": "U1",
+      "referee": "柳田 雅人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.04",
+      "home": "横浜BC",
+      "away": "信州",
+      "card": "横浜BC vs 信州",
+      "venue": "横浜BT",
+      "role": "U2",
+      "referee": "大野 哲広"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "仙台",
+      "away": "A千葉",
+      "card": "仙台 vs A千葉",
+      "venue": "ゼビオ",
+      "role": "CC",
+      "referee": "漆間 大吾"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "仙台",
+      "away": "A千葉",
+      "card": "仙台 vs A千葉",
+      "venue": "ゼビオ",
+      "role": "U1",
+      "referee": "眞榮喜 工"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "仙台",
+      "away": "A千葉",
+      "card": "仙台 vs A千葉",
+      "venue": "ゼビオ",
+      "role": "U2",
+      "referee": "若林 謙作"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "茨城",
+      "away": "広島",
+      "card": "茨城 vs 広島",
+      "venue": "ADみと",
+      "role": "CC",
+      "referee": "岩井 遥河"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "茨城",
+      "away": "広島",
+      "card": "茨城 vs 広島",
+      "venue": "ADみと",
+      "role": "U1",
+      "referee": "高野 晃平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "茨城",
+      "away": "広島",
+      "card": "茨城 vs 広島",
+      "venue": "ADみと",
+      "role": "U2",
+      "referee": "菊池 瑞昭"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "富山",
+      "away": "京都",
+      "card": "富山 vs 京都",
+      "venue": "APアリ",
+      "role": "CC",
+      "referee": "北沢 岳夫"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "富山",
+      "away": "京都",
+      "card": "富山 vs 京都",
+      "venue": "APアリ",
+      "role": "U1",
+      "referee": "丸山 大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "富山",
+      "away": "京都",
+      "card": "富山 vs 京都",
+      "venue": "APアリ",
+      "role": "U2",
+      "referee": "岩城 和利"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "滋賀",
+      "away": "東京SR",
+      "card": "滋賀 vs 東京SR",
+      "venue": "滋賀DH",
+      "role": "CC",
+      "referee": "伊藤 亮介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "滋賀",
+      "away": "東京SR",
+      "card": "滋賀 vs 東京SR",
+      "venue": "滋賀DH",
+      "role": "U1",
+      "referee": "大野 哲広"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "滋賀",
+      "away": "東京SR",
+      "card": "滋賀 vs 東京SR",
+      "venue": "滋賀DH",
+      "role": "U2",
+      "referee": "後藤 貴哉"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "大阪",
+      "away": "横浜BC",
+      "card": "大阪 vs 横浜BC",
+      "venue": "おおきに",
+      "role": "CC",
+      "referee": "早崎 康祐"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "大阪",
+      "away": "横浜BC",
+      "card": "大阪 vs 横浜BC",
+      "venue": "おおきに",
+      "role": "U1",
+      "referee": "浅野 祐樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "大阪",
+      "away": "横浜BC",
+      "card": "大阪 vs 横浜BC",
+      "venue": "おおきに",
+      "role": "U2",
+      "referee": "辻 健太郎"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "島根",
+      "away": "北海道",
+      "card": "島根 vs 北海道",
+      "venue": "BNアリ",
+      "role": "CC",
+      "referee": "一色 渉"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "島根",
+      "away": "北海道",
+      "card": "島根 vs 北海道",
+      "venue": "BNアリ",
+      "role": "U1",
+      "referee": "皆川 義紀"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.07",
+      "home": "島根",
+      "away": "北海道",
+      "card": "島根 vs 北海道",
+      "venue": "BNアリ",
+      "role": "U2",
+      "referee": "池田 隼人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "A東京",
+      "away": "佐賀",
+      "card": "A東京 vs 佐賀",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "加納 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "A東京",
+      "away": "佐賀",
+      "card": "A東京 vs 佐賀",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "細田 知宏"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "A東京",
+      "away": "佐賀",
+      "card": "A東京 vs 佐賀",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "遠藤 大輔"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "神戸",
+      "away": "千葉J",
+      "card": "神戸 vs 千葉J",
+      "venue": "Gアリ",
+      "role": "CC",
+      "referee": "市川 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "神戸",
+      "away": "千葉J",
+      "card": "神戸 vs 千葉J",
+      "venue": "Gアリ",
+      "role": "U1",
+      "referee": "岸本 祥也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "神戸",
+      "away": "千葉J",
+      "card": "神戸 vs 千葉J",
+      "venue": "Gアリ",
+      "role": "U2",
+      "referee": "中川 行臣"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "長崎",
+      "away": "信州",
+      "card": "長崎 vs 信州",
+      "venue": "ハピアリ",
+      "role": "CC",
+      "referee": "秋山 厚志"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "長崎",
+      "away": "信州",
+      "card": "長崎 vs 信州",
+      "venue": "ハピアリ",
+      "role": "U1",
+      "referee": "豊田 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "長崎",
+      "away": "信州",
+      "card": "長崎 vs 信州",
+      "venue": "ハピアリ",
+      "role": "U2",
+      "referee": "橋本 恵一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "秋田",
+      "away": "川崎",
+      "card": "秋田 vs 川崎",
+      "venue": "CNA",
+      "role": "CC",
+      "referee": "久米 克弥"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "秋田",
+      "away": "川崎",
+      "card": "秋田 vs 川崎",
+      "venue": "CNA",
+      "role": "U1",
+      "referee": "和嶋 陽一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "秋田",
+      "away": "川崎",
+      "card": "秋田 vs 川崎",
+      "venue": "CNA",
+      "role": "U2",
+      "referee": "山田 俊"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "琉球",
+      "away": "群馬",
+      "card": "琉球 vs 群馬",
+      "venue": "沖アリ",
+      "role": "CC",
+      "referee": "大河原 則人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "琉球",
+      "away": "群馬",
+      "card": "琉球 vs 群馬",
+      "venue": "沖アリ",
+      "role": "U1",
+      "referee": "山口 憲昭"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.08",
+      "home": "琉球",
+      "away": "群馬",
+      "card": "琉球 vs 群馬",
+      "venue": "沖アリ",
+      "role": "U2",
+      "referee": "砂川 卓嗣"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "仙台",
+      "away": "三河",
+      "card": "仙台 vs 三河",
+      "venue": "ゼビオ",
+      "role": "CC",
+      "referee": "漆間 大吾"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "仙台",
+      "away": "三河",
+      "card": "仙台 vs 三河",
+      "venue": "ゼビオ",
+      "role": "U1",
+      "referee": "眞榮喜 工"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "仙台",
+      "away": "三河",
+      "card": "仙台 vs 三河",
+      "venue": "ゼビオ",
+      "role": "U2",
+      "referee": "上山 正智"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "茨城",
+      "away": "宇都宮",
+      "card": "茨城 vs 宇都宮",
+      "venue": "ADみと",
+      "role": "CC",
+      "referee": "岩井 遥河"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "茨城",
+      "away": "宇都宮",
+      "card": "茨城 vs 宇都宮",
+      "venue": "ADみと",
+      "role": "U1",
+      "referee": "高野 晃平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "茨城",
+      "away": "宇都宮",
+      "card": "茨城 vs 宇都宮",
+      "venue": "ADみと",
+      "role": "U2",
+      "referee": "菊池 瑞昭"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "A千葉",
+      "away": "大阪",
+      "card": "A千葉 vs 大阪",
+      "venue": "ちばアリ",
+      "role": "CC",
+      "referee": "名越 龍男"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "A千葉",
+      "away": "大阪",
+      "card": "A千葉 vs 大阪",
+      "venue": "ちばアリ",
+      "role": "U1",
+      "referee": "大倉 哲也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "A千葉",
+      "away": "大阪",
+      "card": "A千葉 vs 大阪",
+      "venue": "ちばアリ",
+      "role": "U2",
+      "referee": "後藤 貴哉"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "東京SR",
+      "away": "富山",
+      "card": "東京SR vs 富山",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "加藤 誉樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "東京SR",
+      "away": "富山",
+      "card": "東京SR vs 富山",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "柳田 雅人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "東京SR",
+      "away": "富山",
+      "card": "東京SR vs 富山",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "大山 賢史"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "京都",
+      "away": "横浜BC",
+      "card": "京都 vs 横浜BC",
+      "venue": "日新電機",
+      "role": "CC",
+      "referee": "内田 祥平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "京都",
+      "away": "横浜BC",
+      "card": "京都 vs 横浜BC",
+      "venue": "日新電機",
+      "role": "U1",
+      "referee": "冨島 健司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.09",
+      "home": "京都",
+      "away": "横浜BC",
+      "card": "京都 vs 横浜BC",
+      "venue": "日新電機",
+      "role": "U2",
+      "referee": "佐久間 飛人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "北海道",
+      "away": "千葉J",
+      "card": "北海道 vs 千葉J",
+      "venue": "北海きた",
+      "role": "CC",
+      "referee": "冨士 将史"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "北海道",
+      "away": "千葉J",
+      "card": "北海道 vs 千葉J",
+      "venue": "北海きた",
+      "role": "U1",
+      "referee": "田中 充"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "北海道",
+      "away": "千葉J",
+      "card": "北海道 vs 千葉J",
+      "venue": "北海きた",
+      "role": "U2",
+      "referee": "高橋 伸禎"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "信州",
+      "away": "三遠",
+      "card": "信州 vs 三遠",
+      "venue": "ホワイト",
+      "role": "CC",
+      "referee": "阿部 聖"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "信州",
+      "away": "三遠",
+      "card": "信州 vs 三遠",
+      "venue": "ホワイト",
+      "role": "U1",
+      "referee": "高城 邦弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "信州",
+      "away": "三遠",
+      "card": "信州 vs 三遠",
+      "venue": "ホワイト",
+      "role": "U2",
+      "referee": "富樫 彰子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "神戸",
+      "away": "佐賀",
+      "card": "神戸 vs 佐賀",
+      "venue": "Gアリ",
+      "role": "CC",
+      "referee": "市川 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "神戸",
+      "away": "佐賀",
+      "card": "神戸 vs 佐賀",
+      "venue": "Gアリ",
+      "role": "U1",
+      "referee": "竹田 雄介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "神戸",
+      "away": "佐賀",
+      "card": "神戸 vs 佐賀",
+      "venue": "Gアリ",
+      "role": "U2",
+      "referee": "石嶺 良方"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "広島",
+      "away": "滋賀",
+      "card": "広島 vs 滋賀",
+      "venue": "サンプラ",
+      "role": "CC",
+      "referee": "有澤 重行"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "広島",
+      "away": "滋賀",
+      "card": "広島 vs 滋賀",
+      "venue": "サンプラ",
+      "role": "U1",
+      "referee": "坂井 元直"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "広島",
+      "away": "滋賀",
+      "card": "広島 vs 滋賀",
+      "venue": "サンプラ",
+      "role": "U2",
+      "referee": "浅野 慶太郎"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "長崎",
+      "away": "群馬",
+      "card": "長崎 vs 群馬",
+      "venue": "ハピアリ",
+      "role": "CC",
+      "referee": "秋山 厚志"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "長崎",
+      "away": "群馬",
+      "card": "長崎 vs 群馬",
+      "venue": "ハピアリ",
+      "role": "U1",
+      "referee": "豊田 康平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "長崎",
+      "away": "群馬",
+      "card": "長崎 vs 群馬",
+      "venue": "ハピアリ",
+      "role": "U2",
+      "referee": "浅野 祐樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "川崎",
+      "away": "A東京",
+      "card": "川崎 vs A東京",
+      "venue": "とどろき",
+      "role": "CC",
+      "referee": "平原 勇次"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "川崎",
+      "away": "A東京",
+      "card": "川崎 vs A東京",
+      "venue": "とどろき",
+      "role": "U1",
+      "referee": "蒲 健一"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "川崎",
+      "away": "A東京",
+      "card": "川崎 vs A東京",
+      "venue": "とどろき",
+      "role": "U2",
+      "referee": "小田中 涼子"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "琉球",
+      "away": "島根",
+      "card": "琉球 vs 島根",
+      "venue": "沖アリ",
+      "role": "CC",
+      "referee": "大河原 則人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "琉球",
+      "away": "島根",
+      "card": "琉球 vs 島根",
+      "venue": "沖アリ",
+      "role": "U1",
+      "referee": "原田 拓朗"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.10",
+      "home": "琉球",
+      "away": "島根",
+      "card": "琉球 vs 島根",
+      "venue": "沖アリ",
+      "role": "U2",
+      "referee": "赤星 隆幸"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "A千葉",
+      "away": "富山",
+      "card": "A千葉 vs 富山",
+      "venue": "ちばアリ",
+      "role": "CC",
+      "referee": "名越 龍男"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "A千葉",
+      "away": "富山",
+      "card": "A千葉 vs 富山",
+      "venue": "ちばアリ",
+      "role": "U1",
+      "referee": "大倉 哲也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "A千葉",
+      "away": "富山",
+      "card": "A千葉 vs 富山",
+      "venue": "ちばアリ",
+      "role": "U2",
+      "referee": "松井 龍斗"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "京都",
+      "away": "三河",
+      "card": "京都 vs 三河",
+      "venue": "日新電機",
+      "role": "CC",
+      "referee": "内田 祥平"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "京都",
+      "away": "三河",
+      "card": "京都 vs 三河",
+      "venue": "日新電機",
+      "role": "U1",
+      "referee": "松本 究"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "京都",
+      "away": "三河",
+      "card": "京都 vs 三河",
+      "venue": "日新電機",
+      "role": "U2",
+      "referee": "井出 啓太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "茨城",
+      "away": "名古屋D",
+      "card": "茨城 vs 名古屋D",
+      "venue": "ADみと",
+      "role": "CC",
+      "referee": "大野 太裕"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "茨城",
+      "away": "名古屋D",
+      "card": "茨城 vs 名古屋D",
+      "venue": "ADみと",
+      "role": "U1",
+      "referee": "石田 祐二"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "茨城",
+      "away": "名古屋D",
+      "card": "茨城 vs 名古屋D",
+      "venue": "ADみと",
+      "role": "U2",
+      "referee": "丸山 大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "宇都宮",
+      "away": "秋田",
+      "card": "宇都宮 vs 秋田",
+      "venue": "ブレアリ",
+      "role": "CC",
+      "referee": "北沢 岳夫"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "宇都宮",
+      "away": "秋田",
+      "card": "宇都宮 vs 秋田",
+      "venue": "ブレアリ",
+      "role": "U1",
+      "referee": "長谷川 裕"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "宇都宮",
+      "away": "秋田",
+      "card": "宇都宮 vs 秋田",
+      "venue": "ブレアリ",
+      "role": "U2",
+      "referee": "石榑 芳弘"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "東京SR",
+      "away": "仙台",
+      "card": "東京SR vs 仙台",
+      "venue": "トヨタA",
+      "role": "CC",
+      "referee": "加藤 誉樹"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "東京SR",
+      "away": "仙台",
+      "card": "東京SR vs 仙台",
+      "venue": "トヨタA",
+      "role": "U1",
+      "referee": "柳田 雅人"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.11",
+      "home": "東京SR",
+      "away": "仙台",
+      "card": "東京SR vs 仙台",
+      "venue": "トヨタA",
+      "role": "U2",
+      "referee": "大山 賢史"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "滋賀",
+      "away": "信州",
+      "card": "滋賀 vs 信州",
+      "venue": "滋賀DH",
+      "role": "CC",
+      "referee": "早崎 康祐"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "滋賀",
+      "away": "信州",
+      "card": "滋賀 vs 信州",
+      "venue": "滋賀DH",
+      "role": "U1",
+      "referee": "嶋崎 貴"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "滋賀",
+      "away": "信州",
+      "card": "滋賀 vs 信州",
+      "venue": "滋賀DH",
+      "role": "U2",
+      "referee": "細見 竜太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "大阪",
+      "away": "A東京",
+      "card": "大阪 vs A東京",
+      "venue": "おおきに",
+      "role": "CC",
+      "referee": "有澤 重行"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "大阪",
+      "away": "A東京",
+      "card": "大阪 vs A東京",
+      "venue": "おおきに",
+      "role": "U1",
+      "referee": "小畑 治"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "大阪",
+      "away": "A東京",
+      "card": "大阪 vs A東京",
+      "venue": "おおきに",
+      "role": "U2",
+      "referee": "上西 星太"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "佐賀",
+      "away": "群馬",
+      "card": "佐賀 vs 群馬",
+      "venue": "Sアリ",
+      "role": "CC",
+      "referee": "冨島 健司"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "佐賀",
+      "away": "群馬",
+      "card": "佐賀 vs 群馬",
+      "venue": "Sアリ",
+      "role": "U1",
+      "referee": "岸本 祥也"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "佐賀",
+      "away": "群馬",
+      "card": "佐賀 vs 群馬",
+      "venue": "Sアリ",
+      "role": "U2",
+      "referee": "汐野 壱歩"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "横浜BC",
+      "away": "千葉J",
+      "card": "横浜BC vs 千葉J",
+      "venue": "横浜BT",
+      "role": "CC",
+      "referee": "阿部 聖"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "横浜BC",
+      "away": "千葉J",
+      "card": "横浜BC vs 千葉J",
+      "venue": "横浜BT",
+      "role": "U1",
+      "referee": "増渕 泰久"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "横浜BC",
+      "away": "千葉J",
+      "card": "横浜BC vs 千葉J",
+      "venue": "横浜BT",
+      "role": "U2",
+      "referee": "加藤 暁生"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "長崎",
+      "away": "神戸",
+      "card": "長崎 vs 神戸",
+      "venue": "ハピアリ",
+      "role": "CC",
+      "referee": "山本 雄大"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "長崎",
+      "away": "神戸",
+      "card": "長崎 vs 神戸",
+      "venue": "ハピアリ",
+      "role": "U1",
+      "referee": "伊藤 亮介"
+    },
+    {
+      "league": "B.PREMIER",
+      "date": "2026.10.12",
+      "home": "長崎",
+      "away": "神戸",
+      "card": "長崎 vs 神戸",
+      "venue": "ハピアリ",
+      "role": "U2",
+      "referee": "山口 憲昭"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.22",
+      "home": "徳島",
+      "away": "横浜EX",
+      "card": "徳島 vs 横浜EX",
+      "venue": "アスティ",
+      "role": "CC",
+      "referee": "蒲 健一"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.22",
+      "home": "徳島",
+      "away": "横浜EX",
+      "card": "徳島 vs 横浜EX",
+      "venue": "アスティ",
+      "role": "U1",
+      "referee": "小島 慶子"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.22",
+      "home": "徳島",
+      "away": "横浜EX",
+      "card": "徳島 vs 横浜EX",
+      "venue": "アスティ",
+      "role": "U2",
+      "referee": "山田 隆介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.23",
+      "home": "徳島",
+      "away": "横浜EX",
+      "card": "徳島 vs 横浜EX",
+      "venue": "アスティ",
+      "role": "CC",
+      "referee": "蒲 健一"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.23",
+      "home": "徳島",
+      "away": "横浜EX",
+      "card": "徳島 vs 横浜EX",
+      "venue": "アスティ",
+      "role": "U1",
+      "referee": "小島 慶子"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.23",
+      "home": "徳島",
+      "away": "横浜EX",
+      "card": "徳島 vs 横浜EX",
+      "venue": "アスティ",
+      "role": "U2",
+      "referee": "山田 隆介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.25",
+      "home": "岡山",
+      "away": "越谷",
+      "card": "岡山 vs 越谷",
+      "venue": "シゲトー",
+      "role": "CC",
+      "referee": "皆川 義紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.25",
+      "home": "岡山",
+      "away": "越谷",
+      "card": "岡山 vs 越谷",
+      "venue": "シゲトー",
+      "role": "U1",
+      "referee": "竹田 雄介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.25",
+      "home": "岡山",
+      "away": "越谷",
+      "card": "岡山 vs 越谷",
+      "venue": "シゲトー",
+      "role": "U2",
+      "referee": "幡丸 登志久"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "新潟",
+      "away": "金沢",
+      "card": "新潟 vs 金沢",
+      "venue": "アオーレ",
+      "role": "CC",
+      "referee": "塩谷 禎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "新潟",
+      "away": "金沢",
+      "card": "新潟 vs 金沢",
+      "venue": "アオーレ",
+      "role": "U1",
+      "referee": "伊藤 睦哲"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "新潟",
+      "away": "金沢",
+      "card": "新潟 vs 金沢",
+      "venue": "アオーレ",
+      "role": "U2",
+      "referee": "猪股 祐介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岐阜",
+      "away": "福井",
+      "card": "岐阜 vs 福井",
+      "venue": "OKB",
+      "role": "CC",
+      "referee": "和嶋 陽一"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岐阜",
+      "away": "福井",
+      "card": "岐阜 vs 福井",
+      "venue": "OKB",
+      "role": "U1",
+      "referee": "細見 竜太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岐阜",
+      "away": "福井",
+      "card": "岐阜 vs 福井",
+      "venue": "OKB",
+      "role": "U2",
+      "referee": "中根 俊彦"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "静岡",
+      "away": "FE名古屋",
+      "card": "静岡 vs FE名古屋",
+      "venue": "このはな",
+      "role": "CC",
+      "referee": "高城 邦弘"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "静岡",
+      "away": "FE名古屋",
+      "card": "静岡 vs FE名古屋",
+      "venue": "このはな",
+      "role": "U1",
+      "referee": "浅野 祐樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "静岡",
+      "away": "FE名古屋",
+      "card": "静岡 vs FE名古屋",
+      "venue": "このはな",
+      "role": "U2",
+      "referee": "島袋 竹志"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岡山",
+      "away": "越谷",
+      "card": "岡山 vs 越谷",
+      "venue": "シゲトー",
+      "role": "CC",
+      "referee": "皆川 義紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岡山",
+      "away": "越谷",
+      "card": "岡山 vs 越谷",
+      "venue": "シゲトー",
+      "role": "U1",
+      "referee": "竹田 雄介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岡山",
+      "away": "越谷",
+      "card": "岡山 vs 越谷",
+      "venue": "シゲトー",
+      "role": "U2",
+      "referee": "幡丸 登志久"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "愛媛",
+      "away": "青森",
+      "card": "愛媛 vs 青森",
+      "venue": "愛媛武道",
+      "role": "CC",
+      "referee": "冨島 健司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "愛媛",
+      "away": "青森",
+      "card": "愛媛 vs 青森",
+      "venue": "愛媛武道",
+      "role": "U1",
+      "referee": "赤星 隆幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "愛媛",
+      "away": "青森",
+      "card": "愛媛 vs 青森",
+      "venue": "愛媛武道",
+      "role": "U2",
+      "referee": "林 大貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岩手",
+      "away": "山形",
+      "card": "岩手 vs 山形",
+      "venue": "盛岡",
+      "role": "CC",
+      "referee": "遠藤 大輔"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岩手",
+      "away": "山形",
+      "card": "岩手 vs 山形",
+      "venue": "盛岡",
+      "role": "U1",
+      "referee": "山内 正隆"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "岩手",
+      "away": "山形",
+      "card": "岩手 vs 山形",
+      "venue": "盛岡",
+      "role": "U2",
+      "referee": "菊池 瑞昭"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "埼玉",
+      "away": "東京U",
+      "card": "埼玉 vs 東京U",
+      "venue": "所沢市民",
+      "role": "CC",
+      "referee": "尾形 美樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "埼玉",
+      "away": "東京U",
+      "card": "埼玉 vs 東京U",
+      "venue": "所沢市民",
+      "role": "U1",
+      "referee": "山田 俊"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "埼玉",
+      "away": "東京U",
+      "card": "埼玉 vs 東京U",
+      "venue": "所沢市民",
+      "role": "U2",
+      "referee": "浅野 慶太郎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "熊本",
+      "away": "香川",
+      "card": "熊本 vs 香川",
+      "venue": "熊本県総",
+      "role": "CC",
+      "referee": "長谷川 裕"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "熊本",
+      "away": "香川",
+      "card": "熊本 vs 香川",
+      "venue": "熊本県総",
+      "role": "U1",
+      "referee": "御手洗 亮"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "熊本",
+      "away": "香川",
+      "card": "熊本 vs 香川",
+      "venue": "熊本県総",
+      "role": "U2",
+      "referee": "伊藤 彰二"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "鹿児島",
+      "away": "福岡",
+      "card": "鹿児島 vs 福岡",
+      "venue": "鹿児体",
+      "role": "CC",
+      "referee": "嶋崎 貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "鹿児島",
+      "away": "福岡",
+      "card": "鹿児島 vs 福岡",
+      "venue": "鹿児体",
+      "role": "U1",
+      "referee": "大山 賢史"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "鹿児島",
+      "away": "福岡",
+      "card": "鹿児島 vs 福岡",
+      "venue": "鹿児体",
+      "role": "U2",
+      "referee": "川島 司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "東京Z",
+      "away": "立川",
+      "card": "東京Z vs 立川",
+      "venue": "大田総合",
+      "role": "CC",
+      "referee": "加川 真"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "東京Z",
+      "away": "立川",
+      "card": "東京Z vs 立川",
+      "venue": "大田総合",
+      "role": "U1",
+      "referee": "佐藤 浩太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "東京Z",
+      "away": "立川",
+      "card": "東京Z vs 立川",
+      "venue": "大田総合",
+      "role": "U2",
+      "referee": "高橋 伸禎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "奈良",
+      "away": "福島",
+      "card": "奈良 vs 福島",
+      "venue": "ロート",
+      "role": "CC",
+      "referee": "石田 祐二"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "奈良",
+      "away": "福島",
+      "card": "奈良 vs 福島",
+      "venue": "ロート",
+      "role": "U1",
+      "referee": "井出 啓太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.26",
+      "home": "奈良",
+      "away": "福島",
+      "card": "奈良 vs 福島",
+      "venue": "ロート",
+      "role": "U2",
+      "referee": "柏原 琢磨"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "岩手",
+      "away": "山形",
+      "card": "岩手 vs 山形",
+      "venue": "盛岡",
+      "role": "CC",
+      "referee": "遠藤 大輔"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "岩手",
+      "away": "山形",
+      "card": "岩手 vs 山形",
+      "venue": "盛岡",
+      "role": "U1",
+      "referee": "山内 正隆"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "岩手",
+      "away": "山形",
+      "card": "岩手 vs 山形",
+      "venue": "盛岡",
+      "role": "U2",
+      "referee": "菊池 瑞昭"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "鹿児島",
+      "away": "福岡",
+      "card": "鹿児島 vs 福岡",
+      "venue": "鹿児体",
+      "role": "CC",
+      "referee": "嶋崎 貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "鹿児島",
+      "away": "福岡",
+      "card": "鹿児島 vs 福岡",
+      "venue": "鹿児体",
+      "role": "U1",
+      "referee": "隈元 ゆみこ"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "鹿児島",
+      "away": "福岡",
+      "card": "鹿児島 vs 福岡",
+      "venue": "鹿児体",
+      "role": "U2",
+      "referee": "川島 司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "新潟",
+      "away": "金沢",
+      "card": "新潟 vs 金沢",
+      "venue": "アオーレ",
+      "role": "CC",
+      "referee": "塩谷 禎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "新潟",
+      "away": "金沢",
+      "card": "新潟 vs 金沢",
+      "venue": "アオーレ",
+      "role": "U1",
+      "referee": "伊藤 睦哲"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "新潟",
+      "away": "金沢",
+      "card": "新潟 vs 金沢",
+      "venue": "アオーレ",
+      "role": "U2",
+      "referee": "猪股 祐介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "岐阜",
+      "away": "福井",
+      "card": "岐阜 vs 福井",
+      "venue": "OKB",
+      "role": "CC",
+      "referee": "和嶋 陽一"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "岐阜",
+      "away": "福井",
+      "card": "岐阜 vs 福井",
+      "venue": "OKB",
+      "role": "U1",
+      "referee": "細見 竜太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "岐阜",
+      "away": "福井",
+      "card": "岐阜 vs 福井",
+      "venue": "OKB",
+      "role": "U2",
+      "referee": "中根 俊彦"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "静岡",
+      "away": "FE名古屋",
+      "card": "静岡 vs FE名古屋",
+      "venue": "このはな",
+      "role": "CC",
+      "referee": "高城 邦弘"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "静岡",
+      "away": "FE名古屋",
+      "card": "静岡 vs FE名古屋",
+      "venue": "このはな",
+      "role": "U1",
+      "referee": "浅野 祐樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "静岡",
+      "away": "FE名古屋",
+      "card": "静岡 vs FE名古屋",
+      "venue": "このはな",
+      "role": "U2",
+      "referee": "島袋 竹志"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "奈良",
+      "away": "福島",
+      "card": "奈良 vs 福島",
+      "venue": "ロート",
+      "role": "CC",
+      "referee": "石田 祐二"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "奈良",
+      "away": "福島",
+      "card": "奈良 vs 福島",
+      "venue": "ロート",
+      "role": "U1",
+      "referee": "井出 啓太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "奈良",
+      "away": "福島",
+      "card": "奈良 vs 福島",
+      "venue": "ロート",
+      "role": "U2",
+      "referee": "柏原 琢磨"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "愛媛",
+      "away": "青森",
+      "card": "愛媛 vs 青森",
+      "venue": "愛媛武道",
+      "role": "CC",
+      "referee": "冨島 健司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "愛媛",
+      "away": "青森",
+      "card": "愛媛 vs 青森",
+      "venue": "愛媛武道",
+      "role": "U1",
+      "referee": "赤星 隆幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "愛媛",
+      "away": "青森",
+      "card": "愛媛 vs 青森",
+      "venue": "愛媛武道",
+      "role": "U2",
+      "referee": "林 大貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "熊本",
+      "away": "香川",
+      "card": "熊本 vs 香川",
+      "venue": "熊本県総",
+      "role": "CC",
+      "referee": "長谷川 裕"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "熊本",
+      "away": "香川",
+      "card": "熊本 vs 香川",
+      "venue": "熊本県総",
+      "role": "U1",
+      "referee": "御手洗 亮"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "熊本",
+      "away": "香川",
+      "card": "熊本 vs 香川",
+      "venue": "熊本県総",
+      "role": "U2",
+      "referee": "伊藤 彰二"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "埼玉",
+      "away": "東京U",
+      "card": "埼玉 vs 東京U",
+      "venue": "所沢市民",
+      "role": "CC",
+      "referee": "尾形 美樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "埼玉",
+      "away": "東京U",
+      "card": "埼玉 vs 東京U",
+      "venue": "所沢市民",
+      "role": "U1",
+      "referee": "山田 俊"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "埼玉",
+      "away": "東京U",
+      "card": "埼玉 vs 東京U",
+      "venue": "所沢市民",
+      "role": "U2",
+      "referee": "浅野 慶太郎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "東京Z",
+      "away": "立川",
+      "card": "東京Z vs 立川",
+      "venue": "大田総合",
+      "role": "CC",
+      "referee": "加川 真"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "東京Z",
+      "away": "立川",
+      "card": "東京Z vs 立川",
+      "venue": "大田総合",
+      "role": "U1",
+      "referee": "佐藤 浩太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.09.27",
+      "home": "東京Z",
+      "away": "立川",
+      "card": "東京Z vs 立川",
+      "venue": "大田総合",
+      "role": "U2",
+      "referee": "高橋 伸禎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "岐阜",
+      "away": "新潟",
+      "card": "岐阜 vs 新潟",
+      "venue": "OKB",
+      "role": "CC",
+      "referee": "守谷 圭介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "岐阜",
+      "away": "新潟",
+      "card": "岐阜 vs 新潟",
+      "venue": "OKB",
+      "role": "U1",
+      "referee": "甲斐 清"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "岐阜",
+      "away": "新潟",
+      "card": "岐阜 vs 新潟",
+      "venue": "OKB",
+      "role": "U2",
+      "referee": "村上 恵美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "静岡",
+      "away": "岡山",
+      "card": "静岡 vs 岡山",
+      "venue": "このはな",
+      "role": "CC",
+      "referee": "大井 陽平"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "静岡",
+      "away": "岡山",
+      "card": "静岡 vs 岡山",
+      "venue": "このはな",
+      "role": "U1",
+      "referee": "飯尾 勝紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "静岡",
+      "away": "岡山",
+      "card": "静岡 vs 岡山",
+      "venue": "このはな",
+      "role": "U2",
+      "referee": "佐藤 慎士"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "香川",
+      "away": "福岡",
+      "card": "香川 vs 福岡",
+      "venue": "あなアリ",
+      "role": "CC",
+      "referee": "池田 隼人"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "香川",
+      "away": "福岡",
+      "card": "香川 vs 福岡",
+      "venue": "あなアリ",
+      "role": "U1",
+      "referee": "佐久間 奈々"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "香川",
+      "away": "福岡",
+      "card": "香川 vs 福岡",
+      "venue": "あなアリ",
+      "role": "U2",
+      "referee": "箱崎 敬知"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "青森",
+      "away": "岩手",
+      "card": "青森 vs 岩手",
+      "venue": "つがる",
+      "role": "CC",
+      "referee": "久米 克弥"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "青森",
+      "away": "岩手",
+      "card": "青森 vs 岩手",
+      "venue": "つがる",
+      "role": "U1",
+      "referee": "武田 亜沙美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "青森",
+      "away": "岩手",
+      "card": "青森 vs 岩手",
+      "venue": "つがる",
+      "role": "U2",
+      "referee": "後藤 貴哉"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "山形",
+      "away": "FE名古屋",
+      "card": "山形 vs FE名古屋",
+      "venue": "山形県総",
+      "role": "CC",
+      "referee": "増渕 泰久"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "山形",
+      "away": "FE名古屋",
+      "card": "山形 vs FE名古屋",
+      "venue": "山形県総",
+      "role": "U1",
+      "referee": "赤沼 裕紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "山形",
+      "away": "FE名古屋",
+      "card": "山形 vs FE名古屋",
+      "venue": "山形県総",
+      "role": "U2",
+      "referee": "早川 貴章"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "福島",
+      "away": "愛媛",
+      "card": "福島 vs 愛媛",
+      "venue": "ボンズA",
+      "role": "CC",
+      "referee": "早崎 康祐"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "福島",
+      "away": "愛媛",
+      "card": "福島 vs 愛媛",
+      "venue": "ボンズA",
+      "role": "U1",
+      "referee": "小野 裕樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "福島",
+      "away": "愛媛",
+      "card": "福島 vs 愛媛",
+      "venue": "ボンズA",
+      "role": "U2",
+      "referee": "松井 龍斗"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "越谷",
+      "away": "鹿児島",
+      "card": "越谷 vs 鹿児島",
+      "venue": "越谷",
+      "role": "CC",
+      "referee": "中川 行臣"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "越谷",
+      "away": "鹿児島",
+      "card": "越谷 vs 鹿児島",
+      "venue": "越谷",
+      "role": "U1",
+      "referee": "中江 洋美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "越谷",
+      "away": "鹿児島",
+      "card": "越谷 vs 鹿児島",
+      "venue": "越谷",
+      "role": "U2",
+      "referee": "薄井 智正"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "立川",
+      "away": "熊本",
+      "card": "立川 vs 熊本",
+      "venue": "立川立飛",
+      "role": "CC",
+      "referee": "平原 勇次"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "立川",
+      "away": "熊本",
+      "card": "立川 vs 熊本",
+      "venue": "立川立飛",
+      "role": "U1",
+      "referee": "小澤 朋克"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "立川",
+      "away": "熊本",
+      "card": "立川 vs 熊本",
+      "venue": "立川立飛",
+      "role": "U2",
+      "referee": "山田 隆介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "福井",
+      "away": "金沢",
+      "card": "福井 vs 金沢",
+      "venue": "福井県営",
+      "role": "CC",
+      "referee": "細田 知宏"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "福井",
+      "away": "金沢",
+      "card": "福井 vs 金沢",
+      "venue": "福井県営",
+      "role": "U1",
+      "referee": "汐野 壱歩"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "福井",
+      "away": "金沢",
+      "card": "福井 vs 金沢",
+      "venue": "福井県営",
+      "role": "U2",
+      "referee": "太田 麻須美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "徳島",
+      "away": "奈良",
+      "card": "徳島 vs 奈良",
+      "venue": "アスティ",
+      "role": "CC",
+      "referee": "桑原 一貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "徳島",
+      "away": "奈良",
+      "card": "徳島 vs 奈良",
+      "venue": "アスティ",
+      "role": "U1",
+      "referee": "浮池 亮太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "徳島",
+      "away": "奈良",
+      "card": "徳島 vs 奈良",
+      "venue": "アスティ",
+      "role": "U2",
+      "referee": "神 魁杜"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "東京U",
+      "away": "東京Z",
+      "card": "東京U vs 東京Z",
+      "venue": "有明M",
+      "role": "CC",
+      "referee": "嶋崎 貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "東京U",
+      "away": "東京Z",
+      "card": "東京U vs 東京Z",
+      "venue": "有明M",
+      "role": "U1",
+      "referee": "石嶺 良方"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "東京U",
+      "away": "東京Z",
+      "card": "東京U vs 東京Z",
+      "venue": "有明M",
+      "role": "U2",
+      "referee": "赤星 隆幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "八王子",
+      "away": "埼玉",
+      "card": "八王子 vs 埼玉",
+      "venue": "エスアリ",
+      "role": "CC",
+      "referee": "丸山 大"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "八王子",
+      "away": "埼玉",
+      "card": "八王子 vs 埼玉",
+      "venue": "エスアリ",
+      "role": "U1",
+      "referee": "佐久間 飛人"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.03",
+      "home": "八王子",
+      "away": "埼玉",
+      "card": "八王子 vs 埼玉",
+      "venue": "エスアリ",
+      "role": "U2",
+      "referee": "青木 紀江"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "福島",
+      "away": "愛媛",
+      "card": "福島 vs 愛媛",
+      "venue": "ボンズA",
+      "role": "CC",
+      "referee": "早崎 康祐"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "福島",
+      "away": "愛媛",
+      "card": "福島 vs 愛媛",
+      "venue": "ボンズA",
+      "role": "U1",
+      "referee": "小野 裕樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "福島",
+      "away": "愛媛",
+      "card": "福島 vs 愛媛",
+      "venue": "ボンズA",
+      "role": "U2",
+      "referee": "松井 龍斗"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "山形",
+      "away": "FE名古屋",
+      "card": "山形 vs FE名古屋",
+      "venue": "山形県総",
+      "role": "CC",
+      "referee": "増渕 泰久"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "山形",
+      "away": "FE名古屋",
+      "card": "山形 vs FE名古屋",
+      "venue": "山形県総",
+      "role": "U1",
+      "referee": "赤沼 裕紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "山形",
+      "away": "FE名古屋",
+      "card": "山形 vs FE名古屋",
+      "venue": "山形県総",
+      "role": "U2",
+      "referee": "早川 貴章"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "越谷",
+      "away": "鹿児島",
+      "card": "越谷 vs 鹿児島",
+      "venue": "越谷",
+      "role": "CC",
+      "referee": "中川 行臣"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "越谷",
+      "away": "鹿児島",
+      "card": "越谷 vs 鹿児島",
+      "venue": "越谷",
+      "role": "U1",
+      "referee": "中江 洋美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "越谷",
+      "away": "鹿児島",
+      "card": "越谷 vs 鹿児島",
+      "venue": "越谷",
+      "role": "U2",
+      "referee": "薄井 智正"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "立川",
+      "away": "熊本",
+      "card": "立川 vs 熊本",
+      "venue": "立川立飛",
+      "role": "CC",
+      "referee": "平原 勇次"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "立川",
+      "away": "熊本",
+      "card": "立川 vs 熊本",
+      "venue": "立川立飛",
+      "role": "U1",
+      "referee": "小澤 朋克"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "立川",
+      "away": "熊本",
+      "card": "立川 vs 熊本",
+      "venue": "立川立飛",
+      "role": "U2",
+      "referee": "山田 隆介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "八王子",
+      "away": "埼玉",
+      "card": "八王子 vs 埼玉",
+      "venue": "エスアリ",
+      "role": "CC",
+      "referee": "丸山 大"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "八王子",
+      "away": "埼玉",
+      "card": "八王子 vs 埼玉",
+      "venue": "エスアリ",
+      "role": "U1",
+      "referee": "佐久間 飛人"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "八王子",
+      "away": "埼玉",
+      "card": "八王子 vs 埼玉",
+      "venue": "エスアリ",
+      "role": "U2",
+      "referee": "青木 紀江"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "福井",
+      "away": "金沢",
+      "card": "福井 vs 金沢",
+      "venue": "福井県営",
+      "role": "CC",
+      "referee": "細田 知宏"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "福井",
+      "away": "金沢",
+      "card": "福井 vs 金沢",
+      "venue": "福井県営",
+      "role": "U1",
+      "referee": "汐野 壱歩"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "福井",
+      "away": "金沢",
+      "card": "福井 vs 金沢",
+      "venue": "福井県営",
+      "role": "U2",
+      "referee": "太田 麻須美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "岐阜",
+      "away": "新潟",
+      "card": "岐阜 vs 新潟",
+      "venue": "OKB",
+      "role": "CC",
+      "referee": "守谷 圭介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "岐阜",
+      "away": "新潟",
+      "card": "岐阜 vs 新潟",
+      "venue": "OKB",
+      "role": "U1",
+      "referee": "甲斐 清"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "岐阜",
+      "away": "新潟",
+      "card": "岐阜 vs 新潟",
+      "venue": "OKB",
+      "role": "U2",
+      "referee": "村上 恵美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "静岡",
+      "away": "岡山",
+      "card": "静岡 vs 岡山",
+      "venue": "このはな",
+      "role": "CC",
+      "referee": "大井 陽平"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "静岡",
+      "away": "岡山",
+      "card": "静岡 vs 岡山",
+      "venue": "このはな",
+      "role": "U1",
+      "referee": "飯尾 勝紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "静岡",
+      "away": "岡山",
+      "card": "静岡 vs 岡山",
+      "venue": "このはな",
+      "role": "U2",
+      "referee": "佐藤 慎士"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "徳島",
+      "away": "奈良",
+      "card": "徳島 vs 奈良",
+      "venue": "アスティ",
+      "role": "CC",
+      "referee": "桑原 一貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "徳島",
+      "away": "奈良",
+      "card": "徳島 vs 奈良",
+      "venue": "アスティ",
+      "role": "U1",
+      "referee": "浮池 亮太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "徳島",
+      "away": "奈良",
+      "card": "徳島 vs 奈良",
+      "venue": "アスティ",
+      "role": "U2",
+      "referee": "神 魁杜"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "香川",
+      "away": "福岡",
+      "card": "香川 vs 福岡",
+      "venue": "あなアリ",
+      "role": "CC",
+      "referee": "池田 隼人"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "香川",
+      "away": "福岡",
+      "card": "香川 vs 福岡",
+      "venue": "あなアリ",
+      "role": "U1",
+      "referee": "佐久間 奈々"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "香川",
+      "away": "福岡",
+      "card": "香川 vs 福岡",
+      "venue": "あなアリ",
+      "role": "U2",
+      "referee": "箱崎 敬知"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "青森",
+      "away": "岩手",
+      "card": "青森 vs 岩手",
+      "venue": "つがる",
+      "role": "CC",
+      "referee": "久米 克弥"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "青森",
+      "away": "岩手",
+      "card": "青森 vs 岩手",
+      "venue": "つがる",
+      "role": "U1",
+      "referee": "武田 亜沙美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "青森",
+      "away": "岩手",
+      "card": "青森 vs 岩手",
+      "venue": "つがる",
+      "role": "U2",
+      "referee": "後藤 貴哉"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "東京U",
+      "away": "東京Z",
+      "card": "東京U vs 東京Z",
+      "venue": "有明M",
+      "role": "CC",
+      "referee": "嶋崎 貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "東京U",
+      "away": "東京Z",
+      "card": "東京U vs 東京Z",
+      "venue": "有明M",
+      "role": "U1",
+      "referee": "石嶺 良方"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.04",
+      "home": "東京U",
+      "away": "東京Z",
+      "card": "東京U vs 東京Z",
+      "venue": "有明M",
+      "role": "U2",
+      "referee": "赤星 隆幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.09",
+      "home": "奈良",
+      "away": "東京U",
+      "card": "奈良 vs 東京U",
+      "venue": "Jアリ",
+      "role": "CC",
+      "referee": "前田 隼大"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.09",
+      "home": "奈良",
+      "away": "東京U",
+      "card": "奈良 vs 東京U",
+      "venue": "Jアリ",
+      "role": "U1",
+      "referee": "林 大貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.09",
+      "home": "奈良",
+      "away": "東京U",
+      "card": "奈良 vs 東京U",
+      "venue": "Jアリ",
+      "role": "U2",
+      "referee": "和田 敏文"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.09",
+      "home": "東京Z",
+      "away": "八王子",
+      "card": "東京Z vs 八王子",
+      "venue": "太田総合",
+      "role": "CC",
+      "referee": "桑原 一貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.09",
+      "home": "東京Z",
+      "away": "八王子",
+      "card": "東京Z vs 八王子",
+      "venue": "太田総合",
+      "role": "U1",
+      "referee": "山田 隆介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.09",
+      "home": "東京Z",
+      "away": "八王子",
+      "card": "東京Z vs 八王子",
+      "venue": "太田総合",
+      "role": "U2",
+      "referee": "松永 航平"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "香川",
+      "away": "鹿児島",
+      "card": "香川 vs 鹿児島",
+      "venue": "あなアリ",
+      "role": "CC",
+      "referee": "西 和馬"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "香川",
+      "away": "鹿児島",
+      "card": "香川 vs 鹿児島",
+      "venue": "あなアリ",
+      "role": "U1",
+      "referee": "飯尾 勝紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "香川",
+      "away": "鹿児島",
+      "card": "香川 vs 鹿児島",
+      "venue": "あなアリ",
+      "role": "U2",
+      "referee": "島袋 竹志"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "岩手",
+      "away": "越谷",
+      "card": "岩手 vs 越谷",
+      "venue": "盛岡",
+      "role": "CC",
+      "referee": "加川 真"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "岩手",
+      "away": "越谷",
+      "card": "岩手 vs 越谷",
+      "venue": "盛岡",
+      "role": "U1",
+      "referee": "管 祐介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "岩手",
+      "away": "越谷",
+      "card": "岩手 vs 越谷",
+      "venue": "盛岡",
+      "role": "U2",
+      "referee": "神 魁杜"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "山形",
+      "away": "青森",
+      "card": "山形 vs 青森",
+      "venue": "山形県総",
+      "role": "CC",
+      "referee": "伊藤 睦哲"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "山形",
+      "away": "青森",
+      "card": "山形 vs 青森",
+      "venue": "山形県総",
+      "role": "U1",
+      "referee": "唐川 幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "山形",
+      "away": "青森",
+      "card": "山形 vs 青森",
+      "venue": "山形県総",
+      "role": "U2",
+      "referee": "吉田 剛"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "福島",
+      "away": "岐阜",
+      "card": "福島 vs 岐阜",
+      "venue": "ボンズA",
+      "role": "CC",
+      "referee": "大井 陽平"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "福島",
+      "away": "岐阜",
+      "card": "福島 vs 岐阜",
+      "venue": "ボンズA",
+      "role": "U1",
+      "referee": "浮池 亮太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "福島",
+      "away": "岐阜",
+      "card": "福島 vs 岐阜",
+      "venue": "ボンズA",
+      "role": "U2",
+      "referee": "早川 貴章"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "埼玉",
+      "away": "新潟",
+      "card": "埼玉 vs 新潟",
+      "venue": "浦和駒場",
+      "role": "CC",
+      "referee": "梶 崇司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "埼玉",
+      "away": "新潟",
+      "card": "埼玉 vs 新潟",
+      "venue": "浦和駒場",
+      "role": "U1",
+      "referee": "工藤 雅子"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "埼玉",
+      "away": "新潟",
+      "card": "埼玉 vs 新潟",
+      "venue": "浦和駒場",
+      "role": "U2",
+      "referee": "猪股 祐介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "東京Z",
+      "away": "八王子",
+      "card": "東京Z vs 八王子",
+      "venue": "太田総合",
+      "role": "CC",
+      "referee": "桑原 一貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "東京Z",
+      "away": "八王子",
+      "card": "東京Z vs 八王子",
+      "venue": "太田総合",
+      "role": "U1",
+      "referee": "山田 隆介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "東京Z",
+      "away": "八王子",
+      "card": "東京Z vs 八王子",
+      "venue": "太田総合",
+      "role": "U2",
+      "referee": "松永 航平"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "金沢",
+      "away": "岡山",
+      "card": "金沢 vs 岡山",
+      "venue": "金沢市総",
+      "role": "CC",
+      "referee": "岩月 遼司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "金沢",
+      "away": "岡山",
+      "card": "金沢 vs 岡山",
+      "venue": "金沢市総",
+      "role": "U1",
+      "referee": "若林 謙作"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "金沢",
+      "away": "岡山",
+      "card": "金沢 vs 岡山",
+      "venue": "金沢市総",
+      "role": "U2",
+      "referee": "千葉 美幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "奈良",
+      "away": "東京U",
+      "card": "奈良 vs 東京U",
+      "venue": "Jアリ",
+      "role": "CC",
+      "referee": "前田 隼大"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "奈良",
+      "away": "東京U",
+      "card": "奈良 vs 東京U",
+      "venue": "Jアリ",
+      "role": "U1",
+      "referee": "林 大貴"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "奈良",
+      "away": "東京U",
+      "card": "奈良 vs 東京U",
+      "venue": "Jアリ",
+      "role": "U2",
+      "referee": "和田 敏文"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "熊本",
+      "away": "静岡",
+      "card": "熊本 vs 静岡",
+      "venue": "熊本県総",
+      "role": "CC",
+      "referee": "茂泉 圭治"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "熊本",
+      "away": "静岡",
+      "card": "熊本 vs 静岡",
+      "venue": "熊本県総",
+      "role": "U1",
+      "referee": "川島 司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "熊本",
+      "away": "静岡",
+      "card": "熊本 vs 静岡",
+      "venue": "熊本県総",
+      "role": "U2",
+      "referee": "伊藤 彰二"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "FE名古屋",
+      "away": "徳島",
+      "card": "FE名古屋 vs 徳島",
+      "venue": "枇杷島",
+      "role": "CC",
+      "referee": "甲斐 清"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "FE名古屋",
+      "away": "徳島",
+      "card": "FE名古屋 vs 徳島",
+      "venue": "枇杷島",
+      "role": "U1",
+      "referee": "茅野 修司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "FE名古屋",
+      "away": "徳島",
+      "card": "FE名古屋 vs 徳島",
+      "venue": "枇杷島",
+      "role": "U2",
+      "referee": "野田 宏樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "福岡",
+      "away": "愛媛",
+      "card": "福岡 vs 愛媛",
+      "venue": "照葉積水",
+      "role": "CC",
+      "referee": "塩谷 禎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "福岡",
+      "away": "愛媛",
+      "card": "福岡 vs 愛媛",
+      "venue": "照葉積水",
+      "role": "U1",
+      "referee": "幡丸 登志久"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "福岡",
+      "away": "愛媛",
+      "card": "福岡 vs 愛媛",
+      "venue": "照葉積水",
+      "role": "U2",
+      "referee": "山田 佳奈"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "横浜EX",
+      "away": "福井",
+      "card": "横浜EX vs 福井",
+      "venue": "横浜武道",
+      "role": "CC",
+      "referee": "守谷 圭介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "横浜EX",
+      "away": "福井",
+      "card": "横浜EX vs 福井",
+      "venue": "横浜武道",
+      "role": "U1",
+      "referee": "山内 正隆"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.10",
+      "home": "横浜EX",
+      "away": "福井",
+      "card": "横浜EX vs 福井",
+      "venue": "横浜武道",
+      "role": "U2",
+      "referee": "小島 慶子"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "福島",
+      "away": "岐阜",
+      "card": "福島 vs 岐阜",
+      "venue": "ボンズA",
+      "role": "CC",
+      "referee": "大井 陽平"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "福島",
+      "away": "岐阜",
+      "card": "福島 vs 岐阜",
+      "venue": "ボンズA",
+      "role": "U1",
+      "referee": "浮池 亮太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "福島",
+      "away": "岐阜",
+      "card": "福島 vs 岐阜",
+      "venue": "ボンズA",
+      "role": "U2",
+      "referee": "早川 貴章"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "岩手",
+      "away": "越谷",
+      "card": "岩手 vs 越谷",
+      "venue": "盛岡",
+      "role": "CC",
+      "referee": "加川 真"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "岩手",
+      "away": "越谷",
+      "card": "岩手 vs 越谷",
+      "venue": "盛岡",
+      "role": "U1",
+      "referee": "管 祐介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "岩手",
+      "away": "越谷",
+      "card": "岩手 vs 越谷",
+      "venue": "盛岡",
+      "role": "U2",
+      "referee": "神 魁杜"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "金沢",
+      "away": "岡山",
+      "card": "金沢 vs 岡山",
+      "venue": "金沢市総",
+      "role": "CC",
+      "referee": "岩月 遼司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "金沢",
+      "away": "岡山",
+      "card": "金沢 vs 岡山",
+      "venue": "金沢市総",
+      "role": "U1",
+      "referee": "若林 謙作"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "金沢",
+      "away": "岡山",
+      "card": "金沢 vs 岡山",
+      "venue": "金沢市総",
+      "role": "U2",
+      "referee": "千葉 美幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "香川",
+      "away": "鹿児島",
+      "card": "香川 vs 鹿児島",
+      "venue": "あなアリ",
+      "role": "CC",
+      "referee": "西 和馬"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "香川",
+      "away": "鹿児島",
+      "card": "香川 vs 鹿児島",
+      "venue": "あなアリ",
+      "role": "U1",
+      "referee": "飯尾 勝紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "香川",
+      "away": "鹿児島",
+      "card": "香川 vs 鹿児島",
+      "venue": "あなアリ",
+      "role": "U2",
+      "referee": "島袋 竹志"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "福岡",
+      "away": "愛媛",
+      "card": "福岡 vs 愛媛",
+      "venue": "照葉積水",
+      "role": "CC",
+      "referee": "塩谷 禎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "福岡",
+      "away": "愛媛",
+      "card": "福岡 vs 愛媛",
+      "venue": "照葉積水",
+      "role": "U1",
+      "referee": "幡丸 登志久"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "福岡",
+      "away": "愛媛",
+      "card": "福岡 vs 愛媛",
+      "venue": "照葉積水",
+      "role": "U2",
+      "referee": "山田 佳奈"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "熊本",
+      "away": "静岡",
+      "card": "熊本 vs 静岡",
+      "venue": "熊本県総",
+      "role": "CC",
+      "referee": "茂泉 圭治"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "熊本",
+      "away": "静岡",
+      "card": "熊本 vs 静岡",
+      "venue": "熊本県総",
+      "role": "U1",
+      "referee": "川島 司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "熊本",
+      "away": "静岡",
+      "card": "熊本 vs 静岡",
+      "venue": "熊本県総",
+      "role": "U2",
+      "referee": "伊藤 彰二"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "埼玉",
+      "away": "新潟",
+      "card": "埼玉 vs 新潟",
+      "venue": "浦和駒場",
+      "role": "CC",
+      "referee": "梶 崇司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "埼玉",
+      "away": "新潟",
+      "card": "埼玉 vs 新潟",
+      "venue": "浦和駒場",
+      "role": "U1",
+      "referee": "工藤 雅子"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "埼玉",
+      "away": "新潟",
+      "card": "埼玉 vs 新潟",
+      "venue": "浦和駒場",
+      "role": "U2",
+      "referee": "猪股 祐介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "横浜EX",
+      "away": "福井",
+      "card": "横浜EX vs 福井",
+      "venue": "横浜武道",
+      "role": "CC",
+      "referee": "守谷 圭介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "横浜EX",
+      "away": "福井",
+      "card": "横浜EX vs 福井",
+      "venue": "横浜武道",
+      "role": "U1",
+      "referee": "山内 正隆"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "横浜EX",
+      "away": "福井",
+      "card": "横浜EX vs 福井",
+      "venue": "横浜武道",
+      "role": "U2",
+      "referee": "小島 慶子"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "FE名古屋",
+      "away": "徳島",
+      "card": "FE名古屋 vs 徳島",
+      "venue": "枇杷島",
+      "role": "CC",
+      "referee": "甲斐 清"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "FE名古屋",
+      "away": "徳島",
+      "card": "FE名古屋 vs 徳島",
+      "venue": "枇杷島",
+      "role": "U1",
+      "referee": "茅野 修司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "FE名古屋",
+      "away": "徳島",
+      "card": "FE名古屋 vs 徳島",
+      "venue": "枇杷島",
+      "role": "U2",
+      "referee": "野田 宏樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "山形",
+      "away": "青森",
+      "card": "山形 vs 青森",
+      "venue": "山形県総",
+      "role": "CC",
+      "referee": "伊藤 睦哲"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "山形",
+      "away": "青森",
+      "card": "山形 vs 青森",
+      "venue": "山形県総",
+      "role": "U1",
+      "referee": "唐川 幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.11",
+      "home": "山形",
+      "away": "青森",
+      "card": "山形 vs 青森",
+      "venue": "山形県総",
+      "role": "U2",
+      "referee": "吉田 剛"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.13",
+      "home": "東京U",
+      "away": "立川",
+      "card": "東京U vs 立川",
+      "venue": "有明M",
+      "role": "CC",
+      "referee": "遠藤 大輔"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.13",
+      "home": "東京U",
+      "away": "立川",
+      "card": "東京U vs 立川",
+      "venue": "有明M",
+      "role": "U1",
+      "referee": "赤星 隆幸"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.13",
+      "home": "東京U",
+      "away": "立川",
+      "card": "東京U vs 立川",
+      "venue": "有明M",
+      "role": "U2",
+      "referee": "薄井 智正"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岩手",
+      "away": "東京Z",
+      "card": "岩手 vs 東京Z",
+      "venue": "盛岡",
+      "role": "CC",
+      "referee": "伊藤 睦哲"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岩手",
+      "away": "東京Z",
+      "card": "岩手 vs 東京Z",
+      "venue": "盛岡",
+      "role": "U1",
+      "referee": "山田 俊"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岩手",
+      "away": "東京Z",
+      "card": "岩手 vs 東京Z",
+      "venue": "盛岡",
+      "role": "U2",
+      "referee": "後藤 貴哉"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "越谷",
+      "away": "FE名古屋",
+      "card": "越谷 vs FE名古屋",
+      "venue": "越谷",
+      "role": "CC",
+      "referee": "北島 寛臣"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "越谷",
+      "away": "FE名古屋",
+      "card": "越谷 vs FE名古屋",
+      "venue": "越谷",
+      "role": "U1",
+      "referee": "大山 賢史"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "越谷",
+      "away": "FE名古屋",
+      "card": "越谷 vs FE名古屋",
+      "venue": "越谷",
+      "role": "U2",
+      "referee": "猪股 祐介"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "八王子",
+      "away": "熊本",
+      "card": "八王子 vs 熊本",
+      "venue": "エスアリ",
+      "role": "CC",
+      "referee": "蒲 健一"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "八王子",
+      "away": "熊本",
+      "card": "八王子 vs 熊本",
+      "venue": "エスアリ",
+      "role": "U1",
+      "referee": "梶 崇司"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "八王子",
+      "away": "熊本",
+      "card": "八王子 vs 熊本",
+      "venue": "エスアリ",
+      "role": "U2",
+      "referee": "佐藤 浩太"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "福井",
+      "away": "山形",
+      "card": "福井 vs 山形",
+      "venue": "福井県営",
+      "role": "CC",
+      "referee": "尾形 美樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "福井",
+      "away": "山形",
+      "card": "福井 vs 山形",
+      "venue": "福井県営",
+      "role": "U1",
+      "referee": "松井 龍斗"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "福井",
+      "away": "山形",
+      "card": "福井 vs 山形",
+      "venue": "福井県営",
+      "role": "U2",
+      "referee": "箱崎 敬知"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岐阜",
+      "away": "埼玉",
+      "card": "岐阜 vs 埼玉",
+      "venue": "で愛",
+      "role": "CC",
+      "referee": "皆川 義紀"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岐阜",
+      "away": "埼玉",
+      "card": "岐阜 vs 埼玉",
+      "venue": "で愛",
+      "role": "U1",
+      "referee": "辻 健太郎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岐阜",
+      "away": "埼玉",
+      "card": "岐阜 vs 埼玉",
+      "venue": "で愛",
+      "role": "U2",
+      "referee": "中根 俊彦"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "静岡",
+      "away": "徳島",
+      "card": "静岡 vs 徳島",
+      "venue": "静岡中央",
+      "role": "CC",
+      "referee": "中川 行臣"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "静岡",
+      "away": "徳島",
+      "card": "静岡 vs 徳島",
+      "venue": "静岡中央",
+      "role": "U1",
+      "referee": "野々村 日希"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "静岡",
+      "away": "徳島",
+      "card": "静岡 vs 徳島",
+      "venue": "静岡中央",
+      "role": "U2",
+      "referee": "佐藤 慎士"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "奈良",
+      "away": "新潟",
+      "card": "奈良 vs 新潟",
+      "venue": "ロート",
+      "role": "CC",
+      "referee": "大野 哲広"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "奈良",
+      "away": "新潟",
+      "card": "奈良 vs 新潟",
+      "venue": "ロート",
+      "role": "U1",
+      "referee": "幡丸 登志久"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "奈良",
+      "away": "新潟",
+      "card": "奈良 vs 新潟",
+      "venue": "ロート",
+      "role": "U2",
+      "referee": "中江 洋美"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岡山",
+      "away": "香川",
+      "card": "岡山 vs 香川",
+      "venue": "シゲトー",
+      "role": "CC",
+      "referee": "浅野 祐樹"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岡山",
+      "away": "香川",
+      "card": "岡山 vs 香川",
+      "venue": "シゲトー",
+      "role": "U1",
+      "referee": "薦田 侑二郎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "岡山",
+      "away": "香川",
+      "card": "岡山 vs 香川",
+      "venue": "シゲトー",
+      "role": "U2",
+      "referee": "了舟 文弥"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "愛媛",
+      "away": "金沢",
+      "card": "愛媛 vs 金沢",
+      "venue": "コミセン",
+      "role": "CC",
+      "referee": "池田 隼人"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "愛媛",
+      "away": "金沢",
+      "card": "愛媛 vs 金沢",
+      "venue": "コミセン",
+      "role": "U1",
+      "referee": "柏原 琢磨"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "愛媛",
+      "away": "金沢",
+      "card": "愛媛 vs 金沢",
+      "venue": "コミセン",
+      "role": "U2",
+      "referee": "堤 健太郎"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "福岡",
+      "away": "横浜EX",
+      "card": "福岡 vs 横浜EX",
+      "venue": "照葉積水",
+      "role": "CC",
+      "referee": "岸本 祥也"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "福岡",
+      "away": "横浜EX",
+      "card": "福岡 vs 横浜EX",
+      "venue": "照葉積水",
+      "role": "U1",
+      "referee": "伊藤 彰二"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "福岡",
+      "away": "横浜EX",
+      "card": "福岡 vs 横浜EX",
+      "venue": "照葉積水",
+      "role": "U2",
+      "referee": "野田 明男"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "鹿児島",
+      "away": "青森",
+      "card": "鹿児島 vs 青森",
+      "venue": "鹿児体",
+      "role": "CC",
+      "referee": "上山 正智"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "鹿児島",
+      "away": "青森",
+      "card": "鹿児島 vs 青森",
+      "venue": "鹿児体",
+      "role": "U1",
+      "referee": "御手洗 亮"
+    },
+    {
+      "league": "B.ONE",
+      "date": "2026.10.14",
+      "home": "鹿児島",
+      "away": "青森",
+      "card": "鹿児島 vs 青森",
+      "venue": "鹿児体",
+      "role": "U2",
+      "referee": "和田 敏文"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.25",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "久居",
+      "role": "CC",
+      "referee": "茅野 修司"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.25",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "久居",
+      "role": "U1",
+      "referee": "薄井 智正"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.25",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "久居",
+      "role": "U2",
+      "referee": "伊藤 拓未"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.26",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "久居",
+      "role": "CC",
+      "referee": "茅野 修司"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.26",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "久居",
+      "role": "U1",
+      "referee": "薄井 智正"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.26",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "久居",
+      "role": "U2",
+      "referee": "伊藤 拓未"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.26",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "CC",
+      "referee": "山口 憲昭"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.26",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U1",
+      "referee": "堤 健太郎"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.26",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U2",
+      "referee": "中屋敷 大"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.27",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "CC",
+      "referee": "山口 憲昭"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.27",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U1",
+      "referee": "堤 健太郎"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.09.27",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U2",
+      "referee": "中屋敷 大"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.02",
+      "home": "品川",
+      "away": "三重",
+      "card": "品川 vs 三重",
+      "venue": "コナミ",
+      "role": "CC",
+      "referee": "若林 謙作"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.02",
+      "home": "品川",
+      "away": "三重",
+      "card": "品川 vs 三重",
+      "venue": "コナミ",
+      "role": "U1",
+      "referee": "福沢 佳乃子"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.02",
+      "home": "品川",
+      "away": "三重",
+      "card": "品川 vs 三重",
+      "venue": "コナミ",
+      "role": "U2",
+      "referee": "三浦 海音"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.02",
+      "home": "湘南",
+      "away": "山口",
+      "card": "湘南 vs 山口",
+      "venue": "秋葉台",
+      "role": "CC",
+      "referee": "了舟 文弥"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.02",
+      "home": "湘南",
+      "away": "山口",
+      "card": "湘南 vs 山口",
+      "venue": "秋葉台",
+      "role": "U1",
+      "referee": "工藤 美香"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.02",
+      "home": "湘南",
+      "away": "山口",
+      "card": "湘南 vs 山口",
+      "venue": "秋葉台",
+      "role": "U2",
+      "referee": "板谷 修平"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.03",
+      "home": "湘南",
+      "away": "山口",
+      "card": "湘南 vs 山口",
+      "venue": "秋葉台",
+      "role": "CC",
+      "referee": "了舟 文弥"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.03",
+      "home": "湘南",
+      "away": "山口",
+      "card": "湘南 vs 山口",
+      "venue": "秋葉台",
+      "role": "U1",
+      "referee": "工藤 美香"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.03",
+      "home": "湘南",
+      "away": "山口",
+      "card": "湘南 vs 山口",
+      "venue": "秋葉台",
+      "role": "U2",
+      "referee": "板谷 修平"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.03",
+      "home": "品川",
+      "away": "三重",
+      "card": "品川 vs 三重",
+      "venue": "戸越",
+      "role": "CC",
+      "referee": "若林 謙作"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.03",
+      "home": "品川",
+      "away": "三重",
+      "card": "品川 vs 三重",
+      "venue": "戸越",
+      "role": "U1",
+      "referee": "福沢 佳乃子"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.03",
+      "home": "品川",
+      "away": "三重",
+      "card": "品川 vs 三重",
+      "venue": "戸越",
+      "role": "U2",
+      "referee": "三浦 海音"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.10",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "東員",
+      "role": "CC",
+      "referee": "赤沼 裕紀"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.10",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "東員",
+      "role": "U1",
+      "referee": "山下 渉"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.10",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "東員",
+      "role": "U2",
+      "referee": "松原 伊吹"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.10",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "CC",
+      "referee": "箱崎 敬知"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.10",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U1",
+      "referee": "荒木 晋之"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.10",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U2",
+      "referee": "福田 尚広"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.11",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "CC",
+      "referee": "箱崎 敬知"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.11",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U1",
+      "referee": "荒木 晋之"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.11",
+      "home": "山口",
+      "away": "品川",
+      "card": "山口 vs 品川",
+      "venue": "俵田",
+      "role": "U2",
+      "referee": "福田 尚広"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.11",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "東員",
+      "role": "CC",
+      "referee": "赤沼 裕紀"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.11",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "東員",
+      "role": "U1",
+      "referee": "山下 渉"
+    },
+    {
+      "league": "B.NEXT",
+      "date": "2026.10.11",
+      "home": "三重",
+      "away": "湘南",
+      "card": "三重 vs 湘南",
+      "venue": "東員",
+      "role": "U2",
+      "referee": "松原 伊吹"
+    }
+  ],
+  "sourceNote": "source.xlsx から自動生成。担当試合数リストと各リーグシートを参照。"
+}
